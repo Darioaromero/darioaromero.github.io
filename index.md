@@ -13,7 +13,7 @@ header:
     <td><b style="font-size:30px"></b></td>
  </tr>
  <tr>
-    <td>/images/TA.jpg</td>
+    <td><"img/images/TA.jpg"></td>
     <td>I am an Economics Ph.D student at Columbia University in the City of New York.
     I hold a M.A. in Economics  and B.A. in Economics and Political Science from Universidad de los Andes.
 
