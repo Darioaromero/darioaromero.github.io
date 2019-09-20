@@ -2,6 +2,7 @@
 layout: single
 title: "In Progress..."
 permalink: "/working/"
+author_profile: true
 header:
   image: "/images/Header3.jpg"
 ---
