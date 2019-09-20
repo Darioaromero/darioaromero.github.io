@@ -13,11 +13,11 @@ header:
     <td><b style="font-size:30px"></b></td>
  </tr>
  <tr>
-    <td>"/images/TA.jpg"</td>
+    <td>/images/TA.jpg</td>
     <td>I am an Economics Ph.D student at Columbia University in the City of New York.
     I hold a M.A. in Economics  and B.A. in Economics and Political Science from Universidad de los Andes.
 
-    My interest is in political economy, development economics, and applied microeconomics.I have focused his research on the economic and political consequences of conflict and crime, and he has worked on evaluations for education policies in Latin America.</td>
+    My interest is in political economy, development economics, and applied microeconomics. I have focused his research on the economic and political consequences of conflict and crime, and he has worked on evaluations for education policies in Latin America.</td>
  </tr>
 </table>
 
