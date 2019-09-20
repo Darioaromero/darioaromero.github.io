@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Work in Progress"
 permalink: "/working/"
 header:
