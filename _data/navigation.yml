@@ -3,6 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Work in Progress"
+    url: /gallery/
+  - title: "Gallery"
     url: /working/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

@@ -1,6 +1,7 @@
 ---
-layout: archive
+layout: single
 title: "Work in Progress"
 permalink: "/working/"
 header:
   image: "/images/Header2.jpg"
+---
