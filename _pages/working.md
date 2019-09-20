@@ -3,7 +3,7 @@ layout: single
 title: "In Progress..."
 permalink: "/working/"
 header:
-  image: "/images/Header4.jpg"
+  image: "/images/Header3.jpg"
 ---
 
 ### Working Papers
