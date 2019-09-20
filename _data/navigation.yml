@@ -3,9 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Work in Progress"
-    url: /gallery/
-  - title: "Gallery"
     url: /working/
+  - title: "Gallery"
+    url: /404.html/ 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
