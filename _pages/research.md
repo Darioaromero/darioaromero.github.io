@@ -1,5 +1,5 @@
 ---
-title: "Research"
-permalink: "/research/"
+title: "Publications"
+permalink: "/publications/"
 header:
-  image: image: "/images/Header.jpg"
+  image: "/images/Header.jpg"
