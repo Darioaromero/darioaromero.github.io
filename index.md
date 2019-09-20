@@ -1,6 +1,6 @@
 ---
 layout: home
-author_profile: "/images/TA.jpg"
+author_profile: true
 header:
   image: "/images/Header.jpg"
   # caption: "Aljaferia Palace, Zaragoza, Spain"
@@ -18,7 +18,7 @@ header:
  </tr>
 </table>
 
-
+"/images/TA.jpg"
 
 
 I am an Economics Ph.D student at Columbia University in the City of New York.
