@@ -8,7 +8,7 @@ header:
 ---
 
 ### Journal Articles
-- (2017) "[Improving Access to Preventive Maternal Health Care Using Reminders: Experimental Evidence from Guatemala](https://www.sciencedirect.com/science/article/pii/S0165176517303853?via%3Dihub)",  **Economic Letters**, vol. 161, pp. 43-46. (With [Matias Busso](https://www.matiasbusso.org) and Dario Salcedo)
+#### - (2017) "[Improving Access to Preventive Maternal Health Care Using Reminders: Experimental Evidence from Guatemala](https://www.sciencedirect.com/science/article/pii/S0165176517303853?via%3Dihub)",  **Economic Letters**, vol. 161, pp. 43-46. (With [Matias Busso](https://www.matiasbusso.org) and Dario Salcedo)
 
 - (2017) "[Books or laptops? The Effect of Shifting from Printed to Digital Delivery of Educational Content on Learning](https://www.sciencedirect.com/science/article/abs/pii/S0272775716307245)". **Economics of Education Review**, vol. 61, pp. 162-173  (With Rosangela Bando, Francisco Gallego and Paul J. Gertler)
 
