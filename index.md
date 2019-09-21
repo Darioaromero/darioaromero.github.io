@@ -7,7 +7,7 @@ header:
 ---
 
 
-<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" alt="">
+<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="1224" height="1632" alt="">
 
 
 I am an Economics Ph.D student at Columbia University in the City of New York.
