@@ -5,17 +5,17 @@ permalink: "/gallery/"
 header:
   image: "/images/Header2.jpg"
 gallery:
-    - url: /images/Bogota.jpg
-      image_path: /images/Bogota.jpg
+    - url: /images/travel/Bogota.jpg
+      image_path: /images/travel/Bogota.jpg
       title: "Sunny Sunset - Bogota"
-    - url: /images/Cartagena.jpg
-      image_path: /assets/images/Cartagena.jpg
+    - url: /images/travel/Cartagena.jpg
+      image_path: /assets/travel/images/Cartagena.jpg
       title: "Hot Midday - Cartagena"
-    - url: /images/Amman.jpg
-      image_path: /images/Amman.jpg
+    - url: /images/travel/Amman.jpg
+      image_path: /images/travel/Amman.jpg
       title: "Nice Winter Afternoon- Amman"
 ---
 
 ### My Travels
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery layout="half" caption="This is a sample gallery with **Markdown support**." %}
