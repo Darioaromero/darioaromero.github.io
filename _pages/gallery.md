@@ -23,12 +23,24 @@ gallery2:
       - image_path: /images/travel/Oslo-min.jpg
         url: /images/travel/Oslo-min.jpg
         title: "Opera House: Oslo, Norway"
+      - image_path: /images/travel/Firenze-min.jpg
+        url: /images/travel/Firenze-min.jpg
+        title: "Santa Maria del Fiore Cathedral: Florencia, Italy"     
+
+gallery3:
+      - image_path: /images/travel/Greek-Islands-min.jpg
+        url: /images/travel/Greek-Islands-min.jpg
+        title: "Santorini View: Thira, Greece"
+      - image_path: /images/travel/Singapure-min.jpg
+        url: /images/travel/Singapure-min.jpg
+        title: "Marina Bay: Singapure, Singapure"
       - image_path: /images/travel/Amman-min.jpg
         url: /images/travel/Amman-min.jpg
-        title: "Citadel: Amman, Jordan"      
+        title: "Citadel: Amman, Jordan"          
 ---
 
 ### My Travels
 
-{% include gallery id="gallery" layout="third" caption=" " %}
-{% include gallery id="gallery2" layout="third" caption="A small collection of places where I've been happy in the world." %}
+{% include gallery id="gallery" layout="third" caption="" %}
+{% include gallery id="gallery2" layout="third" caption="" %}
+{% include gallery id="gallery3" layout="third" caption="A small collection of places where I've been happy in the world." %}
