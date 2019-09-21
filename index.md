@@ -14,4 +14,6 @@ I hold a M.A. in Economics  and B.A. in Economics and Political Science from Uni
 
 My interest is in political economy, development economics, and applied microeconomics. I have focused my research on the economic and political consequences of conflict and crime, and I have worked on evaluations for education policies in Latin America.
 
+<li><a href="/images/documents/CV/cv.pdf">CV</a></li>
+
 [Google Schoolar](https://scholar.google.es/citations?hl=en&user=DcFc6aIAAAAJ&scilu=&scisig=AMD79ooAAAAAXYVdzGSWsy2HXGDxRvW_4lT2of5ycwhX&gmla=AJsN-F6YRbeu-Mc76lckWbBKfbylwzT4fxH0tA4BSds55hBYV9gSyhH9HsMJvtE64fkRKtzsE_H10jIKL5-XTa5b_K6uaMXKD_X0niQBEkB09mp3hyi0Xak&sciund=5224170877574724095)
