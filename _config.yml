@@ -111,7 +111,7 @@ author:
   avatar           :  "images/Me.jpg"
   bio              : # ""
   location         : "New York, NY"
-  email            : dr2879@columbia.edu
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
