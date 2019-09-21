@@ -36,11 +36,23 @@ gallery3:
         title: "Marina Bay: Singapure, Singapure"
       - image_path: /images/travel/Amman-min.jpg
         url: /images/travel/Amman-min.jpg
-        title: "Citadel: Amman, Jordan"          
+        title: "Citadel: Amman, Jordan"  
+
+gallery4:
+      - image_path: /images/travel/Hvar-min.jpg
+        url: /images/travel/Hvar-min.jpg
+        title: "Franciscan Monastery: Hvar, Croatia"
+      - image_path: /images/travel/Thailandia-min.jpg
+        url: /images/travel/Thailandia-min.jpg
+        title: "Wat Saket: Bangkok, Thailand"
+      - image_path: /images/travel/Andalucia-min.jpg
+        url: /images/travel/Andalucia-min.jpg
+        title: "Spain Square: Seville, Spain"                  
 ---
 
 ### My Travels
 
-{% include gallery id="gallery" layout="third" caption="" %}
-{% include gallery id="gallery2" layout="third" caption="" %}
-{% include gallery id="gallery3" layout="third" caption="A small collection of places where I've been happy in the world." %}
+{% include gallery id="gallery" layout="third" %}
+{% include gallery id="gallery2" layout="third"  %}
+{% include gallery id="gallery3" layout="third"  %}
+{% include gallery id="gallery4" layout="third" caption="A small collection of places where I've been happy in the world." %}
