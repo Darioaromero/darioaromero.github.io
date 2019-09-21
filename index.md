@@ -1,7 +1,10 @@
 ---
 layout: home
-author_profile: true
-header:
+sidebar:
+  - title: "Dario Romero"
+    image: /images/TA.jpg
+    image_alt: "image"
+  header:
   image: "/images/Header.jpg"
   # caption: "Aljaferia Palace, Zaragoza, Spain"
 ---
