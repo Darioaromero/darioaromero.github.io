@@ -28,12 +28,12 @@ gallery2:
         title: "Santa Maria del Fiore Cathedral: Florencia, Italy"     
 
 gallery3:
-      - image_path: /images/travel/Greek-Islands-min.jpg
-        url: /images/travel/Greek-Islands-min.jpg
-        title: "Santorini View: Thira, Greece"
       - image_path: /images/travel/Singapure-min.jpg
         url: /images/travel/Singapure-min.jpg
         title: "Marina Bay: Singapure, Singapure"
+      - image_path: /images/travel/Greek-Islands-min.jpg
+        url: /images/travel/Greek-Islands-min.jpg
+        title: "Santorini View: Thira, Greece"
       - image_path: /images/travel/Amman-min.jpg
         url: /images/travel/Amman-min.jpg
         title: "Citadel: Amman, Jordan"  
@@ -47,7 +47,18 @@ gallery4:
         title: "Wat Saket: Bangkok, Thailand"
       - image_path: /images/travel/Andalucia-min.jpg
         url: /images/travel/Andalucia-min.jpg
-        title: "Spain Square: Seville, Spain"                  
+        title: "Spain Square: Seville, Spain"        
+
+gallery5:
+      - image_path: /images/travel/Roma-min.jpg
+        url: /images/travel/Roma-min.jpg
+        title: "Colosseum: Rome, Italy"
+      - image_path: /images/travel/NYC-min.jpg
+        url: /images/travel/NYC-min.jpg
+        title: "Empire State: New York City, USA"
+      - image_path: /images/travel/Eslovenia-min.jpg
+        url: /images/travel/Eslovenia-min.jpg
+        title: "Blejski otok: Bled, Slovenia"                    
 ---
 
 ### My Travels
