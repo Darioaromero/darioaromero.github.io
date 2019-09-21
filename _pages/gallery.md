@@ -18,4 +18,4 @@ gallery:
 
 ### My Travels
 
-{% include gallery layout="third" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery layout="third" caption="A small collection of places where I've been happy in the world." %}
