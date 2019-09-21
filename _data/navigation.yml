@@ -1,11 +1,13 @@
 # main links
 main:
+  - title: "CV"
+    url: /images/documents/CV/cv.pdf
   - title: "Publications"
     url: /publications/
   - title: "Work in Progress"
     url: /working/
   - title: "Gallery"
-    url: /404.html/ 
+    url: /404.html/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
