@@ -66,4 +66,5 @@ gallery5:
 {% include gallery id="gallery" layout="third" %}
 {% include gallery id="gallery2" layout="third"  %}
 {% include gallery id="gallery3" layout="third"  %}
-{% include gallery id="gallery4" layout="third" caption="A small collection of places where I've been happy in the world." %}
+{% include gallery id="gallery4" layout="third"  %}
+{% include gallery id="gallery5" layout="third" caption="A small collection of places where I've been happy in the world." %}
