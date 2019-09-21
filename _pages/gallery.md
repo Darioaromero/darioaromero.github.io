@@ -13,7 +13,7 @@ gallery:
       url: /images/travel/Cartagena-min.jpg
       title: "Santo Domingo Square: Cartagena, Colombia"
     - image_path: /images/travel/Athens-min.jpg
-      url: /images/travel/Amman-min.jpg
+      url: /images/travel/Athens-min.jpg
       title: "Temple of Poseidon: Sounion, Greece"
 ---
 
