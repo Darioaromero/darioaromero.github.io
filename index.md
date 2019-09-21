@@ -7,8 +7,8 @@ header:
 ---
 
 
+<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" alt="">
 
-"/images/TA.jpg"
 
 I am an Economics Ph.D student at Columbia University in the City of New York.
 I hold a M.A. in Economics  and B.A. in Economics and Political Science from Universidad de los Andes.
