@@ -7,13 +7,22 @@ header:
 gallery:
     - image_path: /images/travel/Bogota-min.jpg
       url: /images/travel/Bogota-min.jpg
-      title: "Sunny Sunset - Bogota"
+      title: "Simon Bolivar Park: Bogota, Colombia"
     - image_path: /images/travel/Cartagena-min.jpg
       url: /images/travel/Cartagena-min.jpg
-      title: "Hot Midday - Cartagena"
-    - image_path: /images/travel/Amman-min.jpg
+      title: "Santo Domingo Square: Cartagena, Colombia"
+    - image_path: /images/travel/Athens-min.jpg
       url: /images/travel/Amman-min.jpg
-      title: "Nice Winter Afternoon - Amman"
+      title: "Temple of Poseidon: Sounion, Greece"
+      - image_path: /images/travel/Laos-min.jpg
+        url: /images/travel/Laos-min.jpg
+        title: "Wat Xieng Thong Temple: Luang Prabang, Laos"
+      - image_path: /images/travel/Oslo-min.jpg
+        url: /images/travel/Oslo-min.jpg
+        title: "Opera House: Oslo, Norway"
+      - image_path: /images/travel/Amman-min.jpg
+        url: /images/travel/Amman-min.jpg
+        title: "Nice Winter Afternoon - Amman"
 ---
 
 ### My Travels
