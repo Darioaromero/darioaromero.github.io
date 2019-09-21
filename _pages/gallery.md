@@ -3,7 +3,7 @@ layout: single
 title: "Gallery"
 permalink: "/gallery/"
 header:
-  image: "/images/Header2.jpg"
+  image: "/images/Header2-min.jpg"
 gallery:
     - image_path: /images/travel/Bogota-min.jpg
       title: "Sunny Sunset - Bogota"

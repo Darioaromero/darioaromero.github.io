@@ -4,7 +4,7 @@ title: "Publications"
 permalink: "/publications/"
 author_profile: true
 header:
-  image: "/images/Header3.jpg"
+  image: "/images/Header3-min.jpg"
 ---
 
 ### Journal Articles

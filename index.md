@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 header:
-  image: "/images/Header.jpg"
+  image: "/images/Header-min.jpg"
   # caption: "Aljaferia Palace, Zaragoza, Spain"
 ---
 
@@ -15,4 +15,4 @@ I am PhD student in the Economics department at Columbia University.
 I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 
 I have worked on evaluations for education policies in Latin America.
-My research interest is in political economy, development economics, and applied microeconomics. I have focused my research on the economic and political consequences of conflict and crime. 
+My research interest is in political economy, development economics, and applied microeconomics. I have focused my research on the economic and political consequences of conflict and crime.

@@ -4,7 +4,7 @@ title: "In Progress..."
 permalink: "/working/"
 author_profile: true
 header:
-  image: "/images/Header3.jpg"
+  image: "/images/Header3-min.jpg"
 ---
 
 ### Working Papers
