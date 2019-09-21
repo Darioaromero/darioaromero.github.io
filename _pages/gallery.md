@@ -30,5 +30,5 @@ gallery2:
 
 ### My Travels
 
-{% include gallery layout="third"  %}
+{% include gallery layout="third" caption="" %}
 {% include gallery2 layout="third" caption="A small collection of places where I've been happy in the world." %}
