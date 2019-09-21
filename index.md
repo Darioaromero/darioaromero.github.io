@@ -6,8 +6,10 @@ header:
   # caption: "Aljaferia Palace, Zaragoza, Spain"
 ---
 
-
+<p align="center">
 <img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="">
+</p>
+
 
 I am an Economics Ph.D student at Columbia University in the City of New York.
 I hold a M.A. in Economics  and B.A. in Economics and Political Science from Universidad de los Andes.
