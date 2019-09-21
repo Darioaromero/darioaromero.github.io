@@ -15,15 +15,6 @@ gallery:
     - image_path: /images/travel/Athens-min.jpg
       url: /images/travel/Amman-min.jpg
       title: "Temple of Poseidon: Sounion, Greece"
-    - image_path: /images/travel/Laos-min.jpg
-      url: /images/travel/Laos-min.jpg
-      title: "Wat Xieng Thong Temple: Luang Prabang, Laos"
-    - image_path: /images/travel/Oslo-min.jpg
-      url: /images/travel/Oslo-min.jpg
-      title: "Opera House: Oslo, Norway"
-    - image_path: /images/travel/Amman-min.jpg
-      url: /images/travel/Amman-min.jpg
-      title: "Citadel: Amman, Jordan"
 ---
 
 ### My Travels
