@@ -13,9 +13,9 @@ header:
 
 #### - (2017) "[Improving access to preventive maternal health care using reminders: Experimental evidence from Guatemala](https://www.sciencedirect.com/science/article/pii/S0165176517303853?via%3Dihub)",  **Economic Letters**, vol. 161, pp. 43-46. (With [Matias Busso](https://www.matiasbusso.org) and Dario Salcedo)
 
-#### - (2017) "[The effects of financial aid and returns information in selective and less selective schools: Experimental evidence from Chile](https://www.sciencedirect.com/science/article/abs/pii/S0927537116303074?via%3Dihub)". **Economics of Education Review**, vol. 61, pp. 162-173. (With Rosangela Bando, Francisco Gallego and Paul J. Gertler)
+#### - (2017) "[The effects of financial aid and returns information in selective and less selective schools: Experimental evidence from Chile](https://www.sciencedirect.com/science/article/abs/pii/S0927537116303074?via%3Dihub)". **Labour Economics**, Vol. 45, pp. 79-91. (With [Matias Busso](https://www.matiasbusso.org), Taryn Dinkelman and Claudia Martínez)
 
-#### - (2017) "[Books or laptops? The effect of shifting from printed to digital delivery of educational content on learning](https://www.sciencedirect.com/science/article/abs/pii/S0272775716307245)". **Labour Economics**, Vol. 45, pp. 79-91. (With [Matias Busso](https://www.matiasbusso.org), Taryn Dinkelman and Claudia Martínez)
+#### - (2017) "[Books or laptops? The effect of shifting from printed to digital delivery of educational content on learning](https://www.sciencedirect.com/science/article/abs/pii/S0272775716307245)". **Economics of Education Review**, vol. 61, pp. 162-173. (With Rosangela Bando, Francisco Gallego and Paul J. Gertler)
 
 #### - (2014) "[Insecurity or Perception of Insecurity? Urban Crime and Dissatisfaction with Life: Evidence from the Case of Bogotá](https://www.degruyter.com/view/j/peps.2014.20.issue-1/peps-2013-0057/peps-2013-0057.xml)" . **Peace Economics**, Peace Science and Public Policy, Vol. 20(1), pp. 169-208.
 
