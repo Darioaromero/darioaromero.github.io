@@ -18,6 +18,8 @@ header:
 
 ####  - Every Cloud has a Silver Lining: The Effect of Cotton Crisis on Spanish XIXth Century Textile Industry
 
+####  - The Perks of Losing your Colonies: The Effects of Spanish–American War on Industry Innovation
+
 ####  - The (unintended?) effects of US military training during the Cold War in Latin-America
 
 ####  - Civilians in the Time of Counterinsurgency: The Consequences of Foreign Military Training in Colombia
