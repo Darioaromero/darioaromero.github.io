@@ -1,9 +1,18 @@
 ---
 layout: home
-author_profile: false
+author_profile: true
+header:
+  image: "/images/Header-min.jpg"
+  # caption: "Aljaferia Palace, Zaragoza, Spain"
 ---
 
-Time: 1-2 pm Friday
-Location: 1101 IAB
-Instructor: Michael Best and Eric Verhoogen
-Economics Department Main Website  
+<p align="center">
+<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="">
+</p>
+
+
+I am PhD student in the Economics department at Columbia University.
+I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
+
+I have worked on evaluations for education policies in Latin America.
+My research interest is in political economy, development economics, and applied microeconomics. I have focused my research on the economic and political consequences of conflict and crime.
