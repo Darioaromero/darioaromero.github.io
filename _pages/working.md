@@ -10,9 +10,9 @@ header:
 ### Working Papers
 {: .notice--warning}
 
-| Employee         | Salary    |
-| --------         | ----------|
-| "[Labor Market Adjustment to Import Competition: Long-run Evidence from Establishment Data](https://publications.iadb.org/publications/english/document/Labor_Market_Adjustment_to_Import_Competition_Long-Run_Evidence_from_Establishment_Data_en.pdf)", with Juan Blyde, [Matias Busso](https://www.matiasbusso.org)  |  | 
+| Year           |            |
+| --------       | ---------- |
+| 2020 | * "[Labor Market Adjustment to Import Competition: Long-run Evidence from Establishment Data](https://publications.iadb.org/publications/english/document/Labor_Market_Adjustment_to_Import_Competition_Long-Run_Evidence_from_Establishment_Data_en.pdf)", with Juan Blyde, [Matias Busso](https://www.matiasbusso.org)  |
 
 * "[Killing Social Leaders for Territorial Control: The Unintended Consequences of Peace](https://ideas.repec.org/p/col/000092/016385.html)"   (With [Mounu Prem](https://sites.google.com/site/fcomunozma/), Andres Rivera and [Juan Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0))
 
