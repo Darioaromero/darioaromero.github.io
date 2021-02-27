@@ -7,7 +7,8 @@ header:
   image: "/images/Header3-min.jpg"
 ---
 
-### [-](){: .btn .btn--success} Journal Articles
+### Journal Articles
+{: .notice--success}
 #### - (forthcoming) "[The perils of top-down state building: Evidence from Colombia’s False Positives](https://www.nber.org/papers/w22617.pdf)". **American Economic Journal: Economic Policy** (With Daron Acemoglu, [Leopoldo Fergusson](https://www.leopoldofergusson.com), James Robinson and [Juan Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0))
 
 
