@@ -11,8 +11,8 @@ header:
 </p>
 
 
-I am PhD student in the Economics department at Columbia University.
-I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
+I'm a PhD candidate in Economics at Columbia University.
 
-I have worked on evaluations for education policies in Latin America.
-My research interest is in political economy, development economics, and applied microeconomics. I have focused my research on the economic and political consequences of conflict and crime.
+My research focuses on political economy and applied microeconomic in developing economies, with special emphasis in Latin America.
+
+Before starting my PhD, I worked at **Universidad del Rosario**, **J-PAL LAC** and **IADB**.  I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
