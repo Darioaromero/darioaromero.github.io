@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Dario Romero"
-  avatar           :  "images/Me.jpg"
+  avatar           : "images/Me.jpg"
   bio              : "Economics PhD Student, Columbia University"
   location         : "New York, NY"
   email            :
