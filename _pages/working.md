@@ -19,7 +19,7 @@ header:
 
 |  ---------- |
 | * An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation |
-| * Non-State Actors in Pandemic: Violence as a Territorial Control Strategy during COVID-19 (With Diego Martin) |
+| * Non-State Actors in Pandemic: Violence as a Territorial Control Strategy during COVID-19 (With [Diego Martin](https://sites.google.com/view/diegoamartin/home)) |
 | * Every Cloud has a Silver Lining: The Effect of Cotton Crisis on Spanish XIXth Century Textile Industry |
 | * The (unintended?) effects of US military training during the Cold War in Latin-America |
 | * Civilians in the Time of Counterinsurgency: The Consequences of Foreign Military Training in Colombia |
