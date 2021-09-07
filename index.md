@@ -19,3 +19,5 @@ My research focuses on political economy and applied microeconomic in developing
 
 Before joined Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** and **IADB**.  I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 {: style="text-align: justify;"}
+
+[CV] (/images/documents/CV/DRcv.pdf)
