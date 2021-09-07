@@ -24,5 +24,5 @@ header:
 |  ---------- |
 | * (2015) "Facts and Determinants of Female Labor Supply in Latin America", (with [Matias Busso](https://www.matiasbusso.org)). In “Bridging gender gaps? The rise and deceleration of female labor force participation in Latin America”, Leonardo Gasparini and Mariana Marchioni (Eds). |
 
-
-[More...](url:/working/)
+{: .notice--success}
+[More...](/working/)
