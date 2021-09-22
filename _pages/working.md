@@ -23,4 +23,4 @@ header:
 | * Every Cloud has a Silver Lining: The Effect of Cotton Crisis on Spanish XIXth Century Textile Industry |
 | * The (unintended?) effects of US military training during the Cold War in Latin-America |
 | * Civilians in the Time of Counterinsurgency: The Consequences of Foreign Military Training in Colombia |
-| * Something Biased This Way Comes: The Effect of Media on Local Elections in US (With Haaris Maatin)  |
+| * Something Biased This Way Comes: The Effect of Media on Local Elections in US (With [Haaris Mateen](https://www.haarismateen.com))  |
