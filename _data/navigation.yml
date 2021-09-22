@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "In Progress"
     url: /working/
+  - title: "Teaching"
+    url: /teaching/    
   - title: "Gallery"
     url: /gallery/
   # - title: "About"
