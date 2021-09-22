@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Publications"
-permalink: "/publications/"
+title: "Teaching"
+permalink: "/teaching/"
 author_profile: true
 header:
   image: "/images/Header4-min.jpg"
