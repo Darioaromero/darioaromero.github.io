@@ -7,7 +7,7 @@ header:
   image: "/images/Header4-min.jpg"
 ---
 
-### Columbia University
+### Columbia University (TA)
 
 Course | Year         | Professor
 ------------ | -------------| -------------
