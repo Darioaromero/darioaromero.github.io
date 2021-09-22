@@ -9,7 +9,7 @@ header:
 
 ### Columbia University
 
-First Header | Year
------------- | -------------
-Content from cell 1 | Content from cell 2
+Course | Year         | Professor
+------------ | -------------| -------------
+Political Economy | Fall 2017 |  John Marshall
 Content in the first column | Content in the second column
