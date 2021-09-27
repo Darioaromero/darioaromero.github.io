@@ -12,7 +12,7 @@ header:
 
 |  ---------- |
 |  * "[Labor Market Adjustment to Import Competition: Long-run Evidence from Establishment Data](https://publications.iadb.org/publications/english/document/Labor_Market_Adjustment_to_Import_Competition_Long-Run_Evidence_from_Establishment_Data_en.pdf)", with Juan Blyde, [Matias Busso](https://www.matiasbusso.org)  |
-| * "[The Environmental Impact of Civil Conflict: The Deforestation Effect of Paramilitary Expansion in Colombia](https://www.google.com/url?q=https%3A%2F%2Fideas.repec.org%2Fp%2Fcol%2F000092%2F012158.html&sa=D)"  (With  [Leopoldo Fergusson](https://www.leopoldofergusson.com) and [Juan Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0)) |
+| * "[The Environmental Impact of Civil Conflict: The Deforestation Effect of Paramilitary Expansion in Colombia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516512)"  (With  [Leopoldo Fergusson](https://www.leopoldofergusson.com) and [Juan Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0)) |
 
 ### Work in Progress
 {: .notice--danger}

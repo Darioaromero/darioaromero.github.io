@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "CV"
-    url: /images/documents/CV/DRcv.pdf
+    url: /images/documents/CV/Dario_CV.pdf
   - title: "Publications"
     url: /publications/
   - title: "In Progress"
     url: /working/
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
   - title: "Gallery"
     url: /gallery/
   # - title: "About"
