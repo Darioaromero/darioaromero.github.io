@@ -11,7 +11,7 @@ header:
 </p>
 
 
-I'm a 6th year PhD candidate in Economics at Columbia University.
+I'm a 6th year PhD candidate in Economics at Columbia University. I will be on the 2021/22 Job Market and available for interviews at the virtual EJME and ASSA.
 {: style="text-align: justify;"}
 
 My research focuses on political economy and applied microeconomic in developing economies, with special emphasis in Latin America.
