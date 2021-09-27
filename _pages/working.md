@@ -21,6 +21,6 @@ header:
 | * [An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation](/images/documents/Papers/SpainCuba_Sep2021abs.pdf) |
 | * [Non-State Actors in Pandemic: Violence as a Territorial Control Strategy during COVID-19](/images/documents/Papers/COVIDandMurders_August302021abs.pdf) (With [Diego Martin](https://sites.google.com/view/diegoamartin/home)) |
 | * Every Cloud has a Silver Lining: The Effect of Cotton Crisis on Spanish XIXth Century Textile Industry |
-| * The (unintended?) effects of US military training during the Cold War in Latin-America |
+| * [The (unintended?) effects of US military training during the Cold War in Latin-America](/images/documents/Papers/SOA_v2abs.pdf) |
 | * Civilians in the Time of Counterinsurgency: The Consequences of Foreign Military Training in Colombia |
 | * Something Biased This Way Comes: The Effect of Media on Local Elections in US (With [Haaris Mateen](https://www.haarismateen.com))  |
