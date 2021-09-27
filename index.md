@@ -21,3 +21,4 @@ Before joined Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** a
 {: style="text-align: justify;"}
 
 [CV](url:/images/documents/CV/Dario_CV.pdf)
+[JMP](url:/images/documents/Papers/SpainCuba_Sep2021abs.pdf)
