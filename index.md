@@ -21,4 +21,4 @@ Before joined Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** a
 {: style="text-align: justify;"}
 
 [CV](/images/documents/CV/Dario_CV.pdf)
-[JMP](/images/documents/Papers/Romero_An_empire_lost_2021.pdf)
+[JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
