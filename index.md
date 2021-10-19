@@ -17,7 +17,7 @@ I'm a 6th year PhD candidate in Economics at Columbia University. I will be on t
 My research focuses on political economy and applied microeconomic in developing economies, with special emphasis in Latin America.
 {: style="text-align: justify;"}
 
-Before joined Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** and **IADB**.  I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
+Before joining Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** and **IADB**.  I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 {: style="text-align: justify;"}
 
 [CV](/images/documents/CV/Dario_CV.pdf)
