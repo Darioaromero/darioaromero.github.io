@@ -116,12 +116,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:dr2879@columbia.edu
+      - label: "Job Market Paper"
+        icon: "fas fa-graduation-cap"
+        url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
+      - label: "CV"
+      icon: "fa-solid fa-feather-pointed"
+      url: "/images/documents/CV/Dario_CV.pdf"      
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com" <i class="fas fa-graduation-cap"></i>
-    - label: "Job Market Paper"
-      icon: "fas fa-graduation-cap"
-      url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
+      # url: "https://your-website.com" <i class="fa-solid fa-feather-pointed"></i>
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/darioaromero"
