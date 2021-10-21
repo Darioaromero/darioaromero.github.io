@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "CV"
-    url: /images/documents/CV/Dario_CV.pdf
   - title: "Publications"
     url: /publications/
   - title: "In Progress"
