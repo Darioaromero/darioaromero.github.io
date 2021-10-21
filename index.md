@@ -20,5 +20,5 @@ My research focuses on political economy and applied microeconomic in developing
 Before joining Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** and **IADB**.  I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 {: style="text-align: justify;"}
 
-[CV](/images/documents/CV/Dario_CV.pdf)
+[CV](/images/documents/CV/Dario_CV.pdf) \\
 [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
