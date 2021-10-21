@@ -114,7 +114,7 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-solid fa-envelope"
       url: mailto:dr2879@columbia.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -123,7 +123,7 @@ author:
       icon: "fas fa-graduation-cap"
       url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     - label: "CV"
-      icon: "fas fa-solid fa-feather"
+      icon: "fas fa-solid fa-feather-pointed"
       url: "/images/documents/CV/Dario_CV.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Darioaromero"
     - label: "Google Schoolar"
-      icon: "ai ai-google-scholar-square"
+      icon: "fas fa-brand fa-goodreads"
       url: "https://scholar.google.es/citations?hl=en&user=DcFc6aIAAAAJ&scilu=&scisig=AMD79ooAAAAAXYVdzGSWsy2HXGDxRvW_4lT2of5ycwhX&gmla=AJsN-F6YRbeu-Mc76lckWbBKfbylwzT4fxH0tA4BSds55hBYV9gSyhH9HsMJvtE64fkRKtzsE_H10jIKL5-XTa5b_K6uaMXKD_X0niQBEkB09mp3hyi0Xak&sciund=5224170877574724095"
 
 # Site Footer
