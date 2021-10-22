@@ -18,7 +18,7 @@ header:
 {: .notice--danger}
 
 |  ---------- |
-| * [An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation](/images/documents/Papers/Romero_An_empire_lost_2021.pdf) |
+| * [An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf) |
 | * [Non-State Actors in Pandemic: Violence as a Territorial Control Strategy during COVID-19](/images/documents/Papers/COVIDandMurders_August302021abs.pdf) (With [Diego Martin](https://sites.google.com/view/diegoamartin/home)) |
 | * Every Cloud has a Silver Lining: The Effect of Cotton Crisis on Spanish XIXth Century Textile Industry |
 | * [The (unintended?) effects of US military training during the Cold War in Latin-America](/images/documents/Papers/SOA_v2abs.pdf) |
