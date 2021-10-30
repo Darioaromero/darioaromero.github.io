@@ -17,7 +17,8 @@ I'm a 6th year PhD candidate in Economics at Columbia University. I am on the jo
 My research interest include political economy and applied microeconomic in developing economies, with special emphasis in Latin America.
 {: style="text-align: justify;"}
 
-My current research focuses on economic growth and innovation {: style="text-align: justify;"}
+My current research focuses on economic growth and innovation
+{: style="text-align: justify;"}
 
 Before joining Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** and **IADB**.  I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 {: style="text-align: justify;"}
