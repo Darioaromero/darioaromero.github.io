@@ -9,7 +9,7 @@ feature_row:
   - image_path: /images/Travel/Bogota-min.jpg
     alt: "Spain"
     excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation"
-    url: "/_post/2021-10-30-Spain/"
+    url: "/_post/2021-10-30-Spain.md"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
 ---
