@@ -9,7 +9,7 @@ feature_row:
   - image_path: /images/research/ExportTextiles_Shares.pdf
     alt: "Spain"
     excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation"
-    url: "/_post/2021-10-30-Spain.md"
+    url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
 ---
@@ -35,5 +35,5 @@ You can find my C.V. here: [CV](/images/documents/CV/Dario_CV.pdf) \\
 JOB MARKET PAPER: [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
 {: style="text-align: justify;"}
 
-
+**Recent Work**
 {% include feature_row %}
