@@ -25,3 +25,9 @@ Before joining Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** 
 
 You can find my C.V. here: [CV](/images/documents/CV/Dario_CV.pdf) \\
 JOB MARKET PAPER: [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
+
+<div class="grid__wrapper">
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
