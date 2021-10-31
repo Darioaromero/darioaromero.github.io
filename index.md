@@ -37,14 +37,4 @@ JOB MARKET PAPER: [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf
 {: style="text-align: justify;"}
 
 
-```yaml
-feature_row:
-  - image_path: /images/Travel/Bogota-min.jpg
-    alt: "Spain"
-    title: "An Empire Lost"
-    excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation"
-    url: "/_post/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"    
-```
 {% include feature_row %}
