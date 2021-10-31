@@ -26,7 +26,7 @@ Before joining Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** 
 You can find my C.V. here: [CV](/images/documents/CV/Dario_CV.pdf) \\
 JOB MARKET PAPER: [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
 
-gallery:
+<div class="grid__wrapper">
     - image_path: /images/Travel/Bogota-min.jpg
       url: /images/Travel/Bogota-min.jpg
       title: "Simon Bolivar Park: Bogota, Colombia"
@@ -36,3 +36,4 @@ gallery:
     - image_path: /images/Travel/Athens-min.jpg
       url: /images/Travel/Athens-min.jpg
       title: "Temple of Poseidon: Sounion, Greece"
+</div>
