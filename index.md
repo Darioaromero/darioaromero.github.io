@@ -4,6 +4,7 @@ author_profile: true
 header:
   image: "/images/Header-min.jpg"
   # caption: "Aljaferia Palace, Zaragoza, Spain"
+entries_layout: grid
 ---
 
 <p align="center">
