@@ -9,15 +9,21 @@ feature_row:
   - image_path: /images/research/Cuba_Cotton_Stages.pdf
     alt: "Spain"
     excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation"
-    url: "/images/documents/Papers//images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
+    url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
   - image_path: /images/research/Results_nococa.pdf
     alt: "Covid-19"
     excerpt: "Non-State Actors in Pandemic: Violence as a Territorial Control Strategy during COVID-19"
-    url: "/images/documents/Papers//images/documents/Papers/COVIDandMurders_August302021abs.pdf"
+    url: "/images/documents/Papers/COVIDandMurders_August302021abs.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
+  - image_path: /images/research/Map_Total.pdf
+    alt: "SOA"
+    excerpt: "The (unintended?) effects of US military training during the Cold War in Latin-America"
+    url: "images/documents/Papers/SOA_v2abs.pdf" /
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 
 ---
 
