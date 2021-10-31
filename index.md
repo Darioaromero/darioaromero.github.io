@@ -21,7 +21,7 @@ feature_row:
   - image_path: /images/research/Map_Total.pdf
     alt: "SOA"
     excerpt: "The (unintended?) effects of US military training during the Cold War in Latin-America"
-    url: "images/documents/Papers/SOA_v2abs.pdf" /
+    url: "images/documents/Papers/SOA_v2abs.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 
