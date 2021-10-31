@@ -6,12 +6,19 @@ header:
   # caption: "Aljaferia Palace, Zaragoza, Spain"
 entries_layout: grid
 feature_row:
-  - image_path: /images/research/ExportTextiles_Shares.pdf
+  - image_path: /images/research/Cuba_Cotton_Stages.pdf
     alt: "Spain"
     excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation"
-    url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
+    url: "/images/documents/Papers//images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
-    btn_label: "Learn more"    
+    btn_label: "Learn more"   
+  - image_path: /images/research/Results_nococa.pdf
+    alt: "Covid-19"
+    excerpt: "Non-State Actors in Pandemic: Violence as a Territorial Control Strategy during COVID-19"
+    url: "/images/documents/Papers//images/documents/Papers/COVIDandMurders_August302021abs.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
+
 ---
 
 <p align="center">
