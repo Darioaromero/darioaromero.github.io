@@ -6,7 +6,7 @@ header:
   # caption: "Aljaferia Palace, Zaragoza, Spain"
 entries_layout: grid
 feature_row:
-  - image_path: /images/Travel/Bogota-min.jpg
+  - image_path: /images/research/ExportTextiles_Shares.pdf
     alt: "Spain"
     excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation"
     url: "/_post/2021-10-30-Spain.md"
