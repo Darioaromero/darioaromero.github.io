@@ -28,6 +28,8 @@ You can find my C.V. here: [CV](/images/documents/CV/Dario_CV.pdf) \\
 JOB MARKET PAPER: [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
 {: style="text-align: justify;"}
 
+
+```yaml
 feature_row:
   - image_path: /images/Travel/Bogota-min.jpg
     alt: "Spain"
@@ -36,5 +38,5 @@ feature_row:
     url: "/_post/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"    
----
+```
 {% include feature_row %}
