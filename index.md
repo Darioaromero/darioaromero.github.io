@@ -8,7 +8,6 @@ entries_layout: grid
 feature_row:
   - image_path: /images/Travel/Bogota-min.jpg
     alt: "Spain"
-    title: "An Empire Lost"
     excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation"
     url: "/_post/configuration/"
     btn_class: "btn--primary"
