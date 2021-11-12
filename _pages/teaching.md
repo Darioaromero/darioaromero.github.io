@@ -11,7 +11,7 @@ header:
 
 Course | Year         | Professor
 ------------ | -------------| -------------
-Political Economy | Fall 2017 |  John Marshall
+[Political Economy](/images/documents/Fall2017.pdf)  | Fall 2017 |  John Marshall
 Principles of Economics | Spring 2018 |  Nicola Zaniboni
 [Political Economy](/images/documents/Fall2018.pdf)  | Fall 2018 | Alessandra Casella
 [Political Economy](/images/documents/Fall2019.pdf)  | Fall 2019 |  John Marshall
