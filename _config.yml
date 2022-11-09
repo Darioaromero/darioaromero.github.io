@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Dario A. Romero"
   avatar           : "images/Me.jpg"
-  bio              : "Economics PhD candidate, Columbia University"
-  location         : "New York, NY"
+  bio              : "Economics PhD, Columbia University"
+  location         : "Abu Dhabi, UAE"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-solid fa-envelope"
-      url: mailto:dr2879@columbia.edu
+      url: mailto:drf312@nyu.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
