@@ -31,17 +31,10 @@ feature_row:
 <img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="">
 </p>
 
-
-I'm a PhD  in Economics at Columbia University. I am on the job market during the 2021-2022 cycle.
+I am a Postdoctoral associate based in New York University - Abu Dhabi, with a focus on political economy and applied microeconomics in developing economies, particularly in Latin America. My research interests center around economic history, economic growth, and trade.
 {: style="text-align: justify;"}
 
-My research interest include political economy and applied microeconomic in developing economies, with special emphasis in Latin America.
-{: style="text-align: justify;"}
-
-My current research focuses on economic history, economic growth and innovation
-{: style="text-align: justify;"}
-
-Before joining Columbia, I worked at **Universidad del Rosario**, **J-PAL LAC** and **IADB**.  I hold a M.A. in Economics  and B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
+Prior to my current position, I held roles at **Universidad del Rosario**, **J-PAL LAC**, and **IADB**. My educational background includes a PhD in Economics from **Columbia University**, as well as a M.A. in Economics and a B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 {: style="text-align: justify;"}
 
 You can find my C.V. here: [CV](/images/documents/CV/Dario_CV.pdf) \\
