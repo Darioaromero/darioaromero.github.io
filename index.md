@@ -8,13 +8,13 @@ entries_layout: grid
 feature_row:
   - image_path: /images/research/Cuba_Cotton_vs_Other.pdf
     alt: "Spain"
-    excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation"
+    excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets on Peripheral  Innovation"
     url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
   - image_path: /images/research/Results_nococa.pdf
     alt: "Covid-19"
-    excerpt: "Non-State Actors in Pandemic: Violence as a Territorial Control Strategy during COVID-19"
+    excerpt: "retending to be the law: 	Violence to reduce the COVID-19 outbreak"
     url: "/images/documents/Papers/COVIDandMurders_August302021abs.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
@@ -37,7 +37,7 @@ I am a Postdoctoral associate based in New York University - Abu Dhabi, with a f
 Prior to my current position, I held roles at **Universidad del Rosario**, **J-PAL LAC**, and **IADB**. My educational background includes a PhD in Economics from **Columbia University**, as well as a M.A. in Economics and a B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 {: style="text-align: justify;"}
 
-You can find my C.V. here: [CV](/images/documents/CV/Dario_CV.pdf) \\
+You can find my C.V. here: [CV](/images/documents/CV/CV.pdf) \\
 JOB MARKET PAPER: [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
 {: style="text-align: justify;"}
 
