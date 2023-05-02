@@ -14,7 +14,7 @@ feature_row:
     btn_label: "Learn more"   
   - image_path: /images/research/Results_nococa.pdf
     alt: "Covid-19"
-    excerpt: "retending to be the law: 	Violence to reduce the COVID-19 outbreak"
+    excerpt: "Pretending to be the law: 	Violence to reduce the COVID-19 outbreak"
     url: "/images/documents/Papers/COVIDandMurders_August302021abs.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
@@ -37,7 +37,7 @@ I am a Postdoctoral associate based in New York University - Abu Dhabi, with a f
 Prior to my current position, I held roles at **Universidad del Rosario**, **J-PAL LAC**, and **IADB**. My educational background includes a PhD in Economics from **Columbia University**, as well as a M.A. in Economics and a B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 {: style="text-align: justify;"}
 
-You can find my C.V. here: [CV](/images/documents/CV/CV.pdf) \\
+You can find my C.V. here: [CV](/images/documents/CV/cv.pdf) \\
 JOB MARKET PAPER: [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
 {: style="text-align: justify;"}
 
