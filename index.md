@@ -14,14 +14,14 @@ feature_row:
     btn_label: "Learn more"   
   - image_path: /images/research/Results_nococa.pdf
     alt: "Covid-19"
-    excerpt: "Pretending to be the law: 	Violence to reduce the COVID-19 outbreak"
+    excerpt: "Pretending to be the law: Violence to reduce the COVID-19 outbreak"
     url: "/images/documents/Papers/COVIDandMurders_August302021abs.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
   - image_path: /images/research/Map_Total.pdf
     alt: "SOA"
     excerpt: "The (unintended?) effects of US military training during the Cold War in Latin-America"
-    url: "images/documents/Papers/SOA_v2abs.pdf"
+    url: "images/documents/Papers/SOAJun2023.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 
