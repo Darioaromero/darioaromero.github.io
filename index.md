@@ -12,10 +12,10 @@ feature_row:
     url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
-  - image_path: /images/research/Results_ACLED_nococa
+  - image_path: /images/research/Results_ACLED_nococa.pdf
     alt: "Covid-19"
     excerpt: "Social distancing and COVID-19 under violence: Evidence from Colombia"
-    url: "/images/documents/Papers/MartinRomero2024"
+    url: "/images/documents/Papers/MartinRomero2024.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
   - image_path: /images/research/Map_Total.pdf
