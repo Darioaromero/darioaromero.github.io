@@ -31,7 +31,7 @@ feature_row:
 <img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="">
 </p>
 
-I am a Postdoctoral associate based in New York University - Abu Dhabi, with a focus on political economy and applied microeconomics in developing economies, particularly in Latin America. My research interests center around economic history, economic growth, and trade.
+I am a Postdoctoral associate based in New York University - Abu Dhabi. I am an applied economist focusing strongly on political economy, economic history, and development. My research explores the complex interactions between political and economic institutions and their impact on economic outcomes in developing countries. This interest has driven me to investigate various topics, from historical and political dynamics to contemporary public policies. I have examined the effects of foreign interventions and colonialism on both the colonizing powers and the societies they influenced. As an applied econometrician, I employ a variety of methodologies, emphasizing causal identification through methods such as quasi-experimental techniques and lab experiments.
 {: style="text-align: justify;"}
 
 Prior to my current position, I held roles at **Universidad del Rosario**, **J-PAL LAC**, and **IADB**. My educational background includes a PhD in Economics from **Columbia University**, as well as a M.A. in Economics and a B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
