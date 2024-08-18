@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  1 MAY 2023 16:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  18 AUG 2024 19:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -881,17 +881,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 36.
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
@@ -901,49 +901,64 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
 
  []
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--84
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 89--89
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 93--93
 []\T1/lmr/m/n/10 (+20) Programming and Sta-tis-ti-cal
  []
 
 
-Underfull \hbox (badness 7759) in paragraph at lines 90--90
+Underfull \hbox (badness 7759) in paragraph at lines 94--94
 []\T1/lmr/m/n/10 (+20) Quantitative and Sta-tis-ti-cal
  []
 
@@ -953,16 +968,16 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 71 ({)
+### simple group (level 1) entered at line 74 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 22468 strings out of 478268
- 425200 string characters out of 5846348
- 743814 words of memory out of 5000000
+ 22470 strings out of 478268
+ 425220 string characters out of 5846348
+ 744814 words of memory out of 5000000
  40151 multiletter control sequences out of 15000+600000
- 540415 words of font info for 115 fonts, out of 8000000 for 9000
+ 540498 words of font info for 116 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,14n,108p,999b,397s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,14n,108p,999b,395s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.en
 c}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
@@ -972,7 +987,7 @@ s/type1/public/lm/lmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
 ic/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro
 10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym
 .pfb>
-Output written on cv.pdf (2 pages, 207870 bytes).
+Output written on cv.pdf (2 pages, 208456 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream
