@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  2 SEP 2024 10:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  25 SEP 2024 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -943,39 +943,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--86
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 110--110
 []\T1/lmr/m/n/10 (+20) Programming and Sta-tis-ti-cal
  []
 
 
-Underfull \hbox (badness 7759) in paragraph at lines 89--89
+Underfull \hbox (badness 7759) in paragraph at lines 111--111
 []\T1/lmr/m/n/10 (+20) Quantitative and Sta-tis-ti-cal
  []
 
-[2] (./cv.aux)
+[3] [4] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: D86283A304BA08872641CB12BE85CA0E;1122.
- ) 
+(rerunfilecheck)             Checksum: 0B549625F76D70FEE573BAE20FE5BE2F;1735.
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 130 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 22468 strings out of 478268
- 425198 string characters out of 5846348
- 744814 words of memory out of 5000000
- 40151 multiletter control sequences out of 15000+600000
- 540415 words of font info for 115 fonts, out of 8000000 for 9000
+ 22510 strings out of 478268
+ 425663 string characters out of 5846348
+ 744834 words of memory out of 5000000
+ 40157 multiletter control sequences out of 15000+600000
+ 544688 words of font info for 131 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,14n,108p,999b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
-texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
-22/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2022/texmf-d
-ist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/t
-ype1/public/lm/lmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public
-/lm/lmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmri10.p
-fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/l
-ocal/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (2 pages, 208220 bytes).
+ 114i,14n,108p,1354b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.en
+c}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
+cal/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
+e/2022/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2022/texm
+f-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2022/texmf-dist/font
+s/type1/public/lm/lmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
+ic/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro
+10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym
+.pfb>
+Output written on cv.pdf (4 pages, 217146 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 38997 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 128 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
+ 18 named destinations out of 1000 (max. 500000)
+ 41077 words of extra memory for PDF output out of 42996 (max. 10000000)
 
