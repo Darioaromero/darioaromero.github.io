@@ -5,7 +5,12 @@ header:
   image: "/images/Header-min.jpg"
   # caption: "Aljaferia Palace, Zaragoza, Spain"
 entries_layout: grid
-feature_row:
+- image_path: /images/research/Map_Total.pdf
+  alt: "SOA"
+  excerpt: "The (unintended?) effects of US military training during the Cold War in Latin-America"
+  url: "images/documents/Papers/SOAJun2023.pdf"
+  btn_class: "btn--primary"
+  btn_label: "Learn more"      
   - image_path: /images/research/Cuba_Cotton_vs_Other.pdf
     alt: "Spain"
     excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets on Peripheral  Innovation"
@@ -15,7 +20,7 @@ feature_row:
   - image_path: /images/research/Map_Total.pdf
     alt: "SOA"
     excerpt: "The (unintended?) effects of US military training during the Cold War in Latin-America"
-    url: "images/documents/Papers/SOAJun2023.pdf"
+    url: "images/documents/Papers/SOA_Aug2024b.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 
@@ -31,7 +36,7 @@ I am a Postdoctoral associate based in New York University - Abu Dhabi. I am an 
 Prior to my current position, I held roles at **Universidad del Rosario**, **J-PAL LAC**, and **IADB**. My educational background includes a PhD in Economics from **Columbia University**, as well as a M.A. in Economics and a B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
 {: style="text-align: justify;"}
 
-You can find my C.V. here: [CV](/images/documents/CV/cv.pdf) \\
+You can find my C.V. here: [CV](/images/documents/CV/Romero_cv.pdf) \\
 JOB MARKET PAPER: [JMP](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)
 {: style="text-align: justify;"}
 
