@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  26 SEP 2024 18:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  30 SEP 2024 14:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -918,7 +918,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
@@ -952,19 +952,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-
-Underfull \hbox (badness 2529) in paragraph at lines 110--110
-[]\T1/lmr/m/n/10 (+20) Programming and Sta-tis-ti-cal
- []
-
-
-Underfull \hbox (badness 7759) in paragraph at lines 111--111
-[]\T1/lmr/m/n/10 (+20) Quantitative and Sta-tis-ti-cal
- []
-
 [3] [4] (./Romero_cv.aux)
 Package rerunfilecheck Info: File `Romero_cv.out' has not changed.
-(rerunfilecheck)             Checksum: 0B549625F76D70FEE573BAE20FE5BE2F;1735.
+(rerunfilecheck)             Checksum: C65BCD90A477AFA75DF1C01DE48E3DEC;1684.
  )
 (\end occurred inside a group at level 1)
 
@@ -973,7 +963,7 @@ Package rerunfilecheck Info: File `Romero_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  22512 strings out of 478268
  425806 string characters out of 5846348
- 744876 words of memory out of 5000000
+ 743876 words of memory out of 5000000
  40157 multiletter control sequences out of 15000+600000
  544771 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -987,7 +977,7 @@ s/type1/public/lm/lmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
 ic/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro
 10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym
 .pfb>
-Output written on Romero_cv.pdf (4 pages, 217317 bytes).
+Output written on Romero_cv.pdf (4 pages, 217409 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
