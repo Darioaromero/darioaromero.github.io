@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  30 SEP 2024 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  1 OCT 2024 15:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -953,16 +953,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--107
  []
 
 [3] [4] (./Romero_cv.aux)
-Package rerunfilecheck Info: File `Romero_cv.out' has not changed.
-(rerunfilecheck)             Checksum: C65BCD90A477AFA75DF1C01DE48E3DEC;1684.
+
+Package rerunfilecheck Warning: File `Romero_cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Romero_cv.out':
+(rerunfilecheck)             Before: C65BCD90A477AFA75DF1C01DE48E3DEC;1684
+(rerunfilecheck)             After:  8E7DDECE0C0C6FDC9CB12D0090212513;1681.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 130 ({)
+### simple group (level 1) entered at line 132 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  22512 strings out of 478268
- 425806 string characters out of 5846348
+ 425808 string characters out of 5846348
  743876 words of memory out of 5000000
  40157 multiletter control sequences out of 15000+600000
  544771 words of font info for 132 fonts, out of 8000000 for 9000
@@ -977,7 +983,7 @@ s/type1/public/lm/lmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
 ic/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro
 10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym
 .pfb>
-Output written on Romero_cv.pdf (4 pages, 217409 bytes).
+Output written on Romero_cv.pdf (4 pages, 217077 bytes).
 PDF statistics:
  128 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
