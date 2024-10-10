@@ -24,6 +24,12 @@ feature_row:
     url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
+  - image_path: /images/research/map_transmilenio_2.png
+    alt: "Bogota"
+    excerpt: "Andean Winds of Wisdom: Air Pollution and Academic Achievement in Colombia"
+    url: "/images/documents/Papers/PM10_in_education.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"       
 
 
 ---
