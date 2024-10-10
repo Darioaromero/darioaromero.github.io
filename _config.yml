@@ -123,7 +123,7 @@ author:
       icon: "fas fa-graduation-cap"
       url: "/images/documents/Papers/SOA_Aug2024b.pdf"
     - label: "Job Market Paper 2"
-      icon: "fas fa-graduation-cap"
+      icon: "fas fa-solid fa-flag-usa"
       url: "/images/documents/Papers/SBG_Idiol_2024b.pdf"
     - label: "CV"
       icon: "fas fa-solid fa-feather"
