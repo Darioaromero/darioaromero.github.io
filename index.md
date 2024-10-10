@@ -39,7 +39,7 @@ Prior to my current position, I held roles at **Universidad del Rosario**, **J-P
 {: style="text-align: justify;"}
 
 You can find my C.V. here: [CV](/images/documents/CV/Romero_cv.pdf) \\
-JOB MARKET PAPER 1: [JMP](/images/documents/Papers/SOA_Aug2024b.pdf)
+JOB MARKET PAPER 1: [JMP](/images/documents/Papers/SOA_Aug2024b.pdf)\\
 JOB MARKET PAPER 2: [JMP](/images/documents/Papers/SBG_Idiol_2024b.pdf)
 {: style="text-align: justify;"}
 
