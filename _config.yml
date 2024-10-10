@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Job Market Paper 1"
-      icon: "fas fa-graduation-cap"
+      icon: "fas fa-solid fa-building-columns"
       url: "/images/documents/Papers/SOA_Aug2024b.pdf"
     - label: "Job Market Paper 2"
       icon: "fas fa-solid fa-flag-usa"
