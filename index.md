@@ -12,6 +12,12 @@ feature_row:
     url: "images/documents/Papers/SOA_Aug2024b.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
+  - image_path: /images/research/DMA_v7.pdf
+    alt: "SBG"
+    excerpt: "Something Biased This Way Comes: The Effect of Media on House Elections in the US"
+    url: "/images/documents/Papers/SBG_Idiol_2024b.pdf"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"       
   - image_path: /images/research/Cuba_Cotton_vs_Other.pdf
     alt: "Spain"
     excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets on Peripheral  Innovation"
@@ -34,6 +40,7 @@ Prior to my current position, I held roles at **Universidad del Rosario**, **J-P
 
 You can find my C.V. here: [CV](/images/documents/CV/Romero_cv.pdf) \\
 JOB MARKET PAPER 1: [JMP](/images/documents/Papers/SOA_Aug2024b.pdf)
+JOB MARKET PAPER 2: [JMP](/images/documents/Papers/SBG_Idiol_2024b.pdf)
 {: style="text-align: justify;"}
 
 **Recent Work**
