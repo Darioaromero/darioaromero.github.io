@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  10 DEC 2024 15:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.2)  7 DEC 2024 10:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Romero_cv.tex
-(./Romero_cv.tex
+**"Romero_cv Reference.tex"
+(./Romero_cv Reference.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (./moderncv.cls
 Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter d
@@ -712,8 +712,9 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 34
 .
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./Romero_cv.aux)
-\openout1 = `Romero_cv.aux'.
+)
+(./Romero_cv Reference.aux)
+\openout1 = `"Romero_cv Reference.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -826,9 +827,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
- (./Romero_cv.out) (./Romero_cv.out)
+ (./Romero_cv Reference.out) (./Romero_cv Reference.out)
 \@outlinefile=\write4
-\openout4 = `Romero_cv.out'.
+\openout4 = `"Romero_cv Reference.out"'.
 
 \makecvheaddetailsbox=\box67
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
@@ -886,93 +887,93 @@ Overfull \hbox (9.47694pt too wide) in paragraph at lines 48--54
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
-[3] [4] (./Romero_cv.aux)
-Package rerunfilecheck Info: File `Romero_cv.out' has not changed.
-(rerunfilecheck)             Checksum: 6EED0BFD6CD1A5A796A83A55AC5FE702;1776.
+[3] [4] (./Romero_cv Reference.aux)
+Package rerunfilecheck Info: File `"Romero_cv Reference".out' has not changed.
+(rerunfilecheck)             Checksum: 8F7D86A6B9FA9FD9A5D213C9E32C86B1;1771.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 143 ({)
+### simple group (level 1) entered at line 150 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 22521 strings out of 478268
- 425898 string characters out of 5846348
- 746876 words of memory out of 5000000
- 40161 multiletter control sequences out of 15000+600000
+ 22523 strings out of 478268
+ 426144 string characters out of 5846348
+ 746942 words of memory out of 5000000
+ 40163 multiletter control sequences out of 15000+600000
  544984 words of font info for 134 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 114i,14n,108p,1422b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,14n,108p,1434b,347s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-ec.en
 c}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
 cal/texlive/2022/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
@@ -982,7 +983,7 @@ s/type1/public/lm/lmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publ
 ic/lm/lmri10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmro
 10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/marvosym/marvosym
 .pfb>
-Output written on Romero_cv.pdf (4 pages, 219933 bytes).
+Output written on "Romero_cv Reference.pdf" (4 pages, 219941 bytes).
 PDF statistics:
  133 PDF objects out of 1000 (max. 8388607)
  109 compressed objects within 2 object streams
