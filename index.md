@@ -32,7 +32,7 @@ feature_row:
     btn_label: "Learn more"       
   - image_path: /images/research/map_transmilenio_2.png
     alt: "Banking"
-    excerpt: "Banking in the Shadow of Media Slant"
+    excerpt: "The Hidden Cost of Mobility: Public Transit  Pollution and Academic Achievement"
     url: "/images/documents/Papers/PM10_in_education.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"         
