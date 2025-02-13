@@ -24,7 +24,7 @@ feature_row:
     url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
-  - image_path: /images/research/map_transmilenio_2.png
+  - image_path: /images/research/Map_Total.pdf
     alt: "Banking"
     excerpt: "Banking in the Shadow of Media Slant"
     url: "/images/documents/Papers/Bank_Lending_and_Media_Slant_BMR_20241231.pdf"
