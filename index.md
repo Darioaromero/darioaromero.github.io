@@ -30,10 +30,10 @@ feature_row:
     url: "/images/documents/Papers/Bank_Lending_and_Media_Slant_BMR_20241231.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"       
-  - image_path: /images/research/Map_National.pdf
+  - image_path: /images/research/map_transmilenio_2.png
     alt: "Banking"
     excerpt: "Banking in the Shadow of Media Slant"
-    url: "/images/documents/Papers/Bank_Lending_and_Media_Slant_BMR_20241231.pdf"
+    url: "/images/documents/Papers/PM10_in_education.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"         
 
