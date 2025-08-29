@@ -17,17 +17,13 @@ header:
 
 | * [The (unintended?) effects of  US military training during the Cold War in Latin America](/images/documents/Papers/SOA_Aug2024b.pdf) (With [Diego Martin](https://sites.google.com/view/diegoamartin/home))  |
 
-| * Something Biased This Way Comes: The Effect of Media on House Elections in the US (With [Haaris Mateen](https://www.haarismateen.com))  |
+| * [Something Biased This Way Comes: The Effect of Media on House Elections in the US](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983580) (With [Haaris Mateen](https://www.haarismateen.com))  |
 
-| * The Hidden Cost of Mobility: Public Transit  Pollution and Academic Achievement (With [Diego Martin](https://sites.google.com/view/diegoamartin/home) and Dario Salcedo)  |
+| * [The Hidden Cost of Mobility: Public Transit  Pollution and Academic Achievement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5125511) (With [Diego Martin](https://sites.google.com/view/diegoamartin/home) and Dario Salcedo)  |
 
-| * Banking Local: Media Slant, Erosion of Trust, and Financial Decisions  (With [Haaris Mateen](https://www.haarismateen.com) and [Elizabeth Berger](https://sites.google.com/view/eberger/home)  )   |
+| * [Banking Local: Media Slant, Erosion of Trust, and Financial Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078365) (With [Elizabeth Berger](https://sites.google.com/view/eberger/home) and [Haaris Mateen](https://www.haarismateen.com))   |
 
 ### Work in Progress
 {: .notice--danger}
-
-|  ---------- |
-
-
 
 | * Mass Deportations, Economic Networks and Firm Productivity in Guatemala (With [Carlos Schmidt-Padilla](https://cschmidtpadilla.github.io)   )   |
