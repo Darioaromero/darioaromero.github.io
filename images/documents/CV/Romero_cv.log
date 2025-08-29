@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  29 AUG 2025 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  29 AUG 2025 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -974,7 +974,7 @@ Package rerunfilecheck Info: File `Romero_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  22270 strings out of 480608
  405883 string characters out of 5903631
- 685408 words of memory out of 5000000
+ 685370 words of memory out of 5000000
  37640 multiletter control sequences out of 15000+600000
  605795 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -988,7 +988,7 @@ s/type1/public/lm/lmr7.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/publ
 ic/lm/lmri10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmro
 10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/marvosym/marvosym
 .pfb>
-Output written on Romero_cv.pdf (4 pages, 211664 bytes).
+Output written on Romero_cv.pdf (4 pages, 211871 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  104 compressed objects within 2 object streams
