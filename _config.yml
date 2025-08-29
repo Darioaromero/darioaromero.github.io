@@ -110,12 +110,12 @@ author:
   name             : "Dario A. Romero"
   avatar           : "images/Me.jpg"
   bio              : "Economics PhD, Columbia University"
-  location         : "Abu Dhabi, UAE"
+  location         : "Shenzhen, China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-solid fa-envelope"
-      url: mailto:drf312@nyu.edu
+      url: mailto:daromero@phbs.pku.edu.cn
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
