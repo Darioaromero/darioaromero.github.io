@@ -7,13 +7,13 @@ header:
   image: "/images/Header4-min.jpg"
 ---
 
-### Columbia University (TA)
+### Peking University HSBC Business School.
 
 Course | Year        
 ------------ | -------------
 Political Institutions and Economic Development  | 2025 Module 2
 Fundamental Analysis in Economics | 2025 Module 2
-Political Institutions and Economic Development  | 2026 Module 4 
+Political Institutions and Economic Development  | 2026 Module 4
 
 ### Columbia University (TA)
 
