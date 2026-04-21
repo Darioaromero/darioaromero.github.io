@@ -53,7 +53,7 @@ My work investigates the effects of external shocks—such as violence, media in
 Prior to joining PHBS, I held research and policy roles at Universidad del Rosario, J-PAL LAC, the IADB, and NYUAD. I hold a **Ph.D. in Economics from Columbia University**, and an M.A. and B.A. from Universidad de los Andes.
 {: style="text-align: justify;"}
 
-📄 **[Download my Curriculum Vitae](/images/documents/CV/Romero_cv.pdf)**
+📄 **[CV](/images/documents/CV/Romero_cv.pdf)**
 {: .notice--info}
 
 ### Featured Research
