@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
-  - title: "In Progress"
-    url: /working/
+  - title: "Research"
+    url: /research/
   - title: "Teaching"
     url: /teaching/
   - title: "Appointments"

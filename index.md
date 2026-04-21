@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 header:
   image: "/images/Header-min.jpg"
-  # caption: "Aljaferia Palace, Zaragoza, Spain"
 entries_layout: grid
 feature_row:
   - image_path: /images/research/Map_Total.pdf
@@ -20,7 +19,7 @@ feature_row:
     btn_label: "Learn more"       
   - image_path: /images/research/Cuba_Cotton_vs_Other.pdf
     alt: "Spain"
-    excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets on Peripheral  Innovation"
+    excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets on Peripheral Innovation"
     url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
@@ -32,25 +31,30 @@ feature_row:
     btn_label: "Learn more"       
   - image_path: /images/research/map_transmilenio_2.png
     alt: "Banking"
-    excerpt: "The Hidden Cost of Mobility: Public Transit  Pollution and Academic Achievement"
+    excerpt: "The Hidden Cost of Mobility: Public Transit Pollution and Academic Achievement"
     url: "/images/documents/Papers/PM10_in_education.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"         
 
 ---
 
-<p align="center">
-<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="">
-</p>
+I am an **Assistant Professor** at the [Peking University HSBC Business School (PHBS)](https://english.phbs.pku.edu.cn/). 
 
-I am a Assistant Professor based in Peking University HSBC Business School. I am an applied economist focusing on political economy, economic history, and development. My research explores the complex interactions between political and economic institutions and their impact on economic outcomes in developing countries. I investigate the effects of external shocks, such as violence, media influence, and foreign military policies, on social behavior and institutional outcomes. I have explored a variety of contexts, from peace agreements and military incentives to international trade and media ownership. My methodological approach emphasizes causal identification, utilizing quasi-experimental designs and econometric techniques to analyze data rigorously. Ultimately, my research is driven by the fundamental questions surrounding the interplay of historical events, political dynamics, and economic conditions, aiming to contribute to a deeper understanding of how these factors shape societal outcomes and economic development.
+I am an applied economist focusing on **political economy, economic history, and development**. My research explores the complex interactions between political and economic institutions and their impact on development outcomes, particularly in Latin America and the United States. 
 {: style="text-align: justify;"}
 
-Prior to my current position, I held roles at **Universidad del Rosario**, **J-PAL LAC**, **IADB**, and **NYUAD**. My educational background includes a PhD in Economics from **Columbia University**, as well as a M.A. in Economics and a B.A. in Economics and Political Science from [Universidad de los Andes](https://uniandes.edu.co/).
+My work investigates the effects of external shocks—such as violence, media influence, and foreign military policies—on social behavior and institutional outcomes. I utilize quasi-experimental designs and rigorous econometric techniques to provide causal evidence on how historical events and political dynamics shape societal development.
 {: style="text-align: justify;"}
 
-You can find my C.V. here: [CV](/images/documents/CV/Romero_cv.pdf)
+Prior to joining PHBS, I held research and policy roles at Universidad del Rosario, J-PAL LAC, the IADB, and NYUAD. I hold a **Ph.D. in Economics from Columbia University**, and an M.A. and B.A. from Universidad de los Andes.
 {: style="text-align: justify;"}
 
-**Recent Work**
+📄 **[Download my Curriculum Vitae](/images/documents/CV/Romero_cv.pdf)**
+{: .notice--info}
+
+### Featured Research
 {% include feature_row %}
+
+<p align="center">
+<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="Dario Romero">
+</p>
