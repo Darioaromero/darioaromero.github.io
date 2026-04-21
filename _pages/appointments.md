@@ -7,59 +7,60 @@ header:
   image: "/images/Header4-min.jpg"
 ---
 
-Welcome! Please find the available slots for office hours below. Appointments are handled on a first-come, first-served basis.
+Welcome! Please select a month below to view available office hours and book a slot.
 
 ### Instructions
-1. Find an **Available** slot in the tables below.
-2. Click **"Book this slot"** to send a pre-filled email request.
-3. Once I confirm via email, I will mark the slot as **Reserved** here.
+1. Click on a month to expand the schedule.
+2. Find an **Available** slot and click **"Book this slot"**.
+3. Send the pre-filled email. I will confirm and mark the slot as **Reserved**.
 
 ---
 
-## 📅 April 2026
-{: .notice--info}
+<details markdown="1">
+<summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; color: #494e52; padding: 10px; border: 1px solid #eee; border-radius: 5px; margin-bottom: 10px;">📅 April 2026</summary>
 
 | Date | Time Slot | Status | Action |
 |:--- |:--- |:--- |:--- |
-| **Wed, April 22** | 17:00 - 17:20 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2022%2017:00) |
-| **Wed, April 22** | 17:20 - 17:40 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2022%2017:20) |
-| **Wed, April 22** | 17:40 - 18:00 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2022%2017:40) |
+| **Wed, April 22** | 17:00 - 17:20 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2022%2017:00) |
+| **Wed, April 22** | 17:20 - 17:40 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2022%2017:20) |
+| **Wed, April 22** | 17:40 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2022%2017:40) |
 | | | | |
-| **Thu, April 23** | 14:00 - 14:20 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2023%2014:00) |
-| **Thu, April 23** | 14:20 - 14:40 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2023%2014:20) |
-| **Thu, April 23** | 14:40 - 15:00 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2023%2014:40) |
+| **Thu, April 23** | 14:00 - 14:20 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2023%2014:00) |
+| **Thu, April 23** | 14:20 - 14:40 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2023%2014:20) |
+| **Thu, April 23** | 14:40 - 15:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2023%2014:40) |
 | | | | |
-| **Wed, April 29** | 17:00 - 17:20 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2029%2017:00) |
-| **Wed, April 29** | 17:20 - 17:40 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2029%2017:20) |
-| **Wed, April 29** | 17:40 - 18:00 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2029%2017:40) |
+| **Wed, April 29** | 17:00 - 17:20 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2029%2017:00) |
+| **Wed, April 29** | 17:20 - 17:40 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2029%2017:20) |
+| **Wed, April 29** | 17:40 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20Apr%2029%2017:40) |
 | | | | |
-| **Thu, April 30** | 14:00 - 14:20 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2030%2014:00) |
-| **Thu, April 30** | 14:20 - 14:40 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2030%2014:20) |
-| **Thu, April 30** | 14:40 - 15:00 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2030%2014:40) |
+| **Thu, April 30** | 14:00 - 14:20 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2030%2014:00) |
+| **Thu, April 30** | 14:20 - 14:40 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2030%2014:20) |
+| **Thu, April 30** | 14:40 - 15:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20Apr%2030%2014:40) |
 
----
+</details>
 
-## 📅 May 2026
-{: .notice--info}
+<details markdown="1">
+<summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; color: #494e52; padding: 10px; border: 1px solid #eee; border-radius: 5px; margin-bottom: 10px;">📅 May 2026</summary>
 
 | Date | Time Slot | Status | Action |
 |:--- |:--- |:--- |:--- |
-| **Tue, May 5** | 16:00 - 16:20 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%205%2016:00) |
-| **Tue, May 5** | 16:20 - 16:40 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%205%2016:20) |
-| **Tue, May 5** | 16:40 - 17:00 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%205%2016:40) |
-| **Tue, May 5** | 17:00 - 17:20 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%205%2017:00) |
-| **Tue, May 5** | 17:20 - 17:40 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%205%2017:20) |
-| **Tue, May 5** | 17:40 - 18:00 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%205%2017:40) |
+| **Tue, May 5** | 16:00 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%205) |
+| **Wed, May 6** | 12:30 - 13:30 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20May%206) |
+| **Thu, May 7** | 17:00 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20May%207) |
 | | | | |
-| **Wed, May 6** | 12:30 - 12:50 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20May%206%2012:30) |
-| **Wed, May 6** | 12:50 - 13:10 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20May%206%2012:50) |
-| **Wed, May 6** | 13:10 - 13:30 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20May%206%2013:10) |
+| **Tue, May 12** | 16:00 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%2012) |
+| **Wed, May 13** | 12:30 - 13:30 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20May%2013) |
+| **Thu, May 14** | 17:00 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20May%2014) |
 | | | | |
-| **Thu, May 7** | 17:00 - 17:20 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20May%207%2017:00) |
-| **Thu, May 7** | 17:20 - 17:40 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20May%207%2017:20) |
-| **Thu, May 7** | 17:40 - 18:00 | Available | [**Book this slot**](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20May%207%2017:40) |
+| **Tue, May 19** | 16:00 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%2019) |
+| **Wed, May 20** | 12:30 - 13:30 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20May%2020) |
+| **Thu, May 21** | 17:00 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20May%2021) |
 | | | | |
-| *[Further May dates follow the same pattern: Tue 16:00-18:00, Wed 12:30-13:30, Thu 17:00-18:00]* | | | |
+| **Tue, May 26** | 16:00 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Tue%20May%2026) |
+| **Wed, May 27** | 12:30 - 13:30 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Wed%20May%2027) |
+| **Thu, May 28** | 17:00 - 18:00 | Available | [Book](mailto:daromero@phbs.pku.edu.cn?subject=Booking:%20Thu%20May%2028) |
+
+</details>
 
 ---
 
