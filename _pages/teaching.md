@@ -9,6 +9,14 @@ header:
 
 ### Columbia University (TA)
 
+Course | Year        
+------------ | -------------
+Political Institutions and Economic Development  | 2025 Module 2
+Fundamental Analysis in Economics | 2025 Module 2
+Political Institutions and Economic Development  | 2026 Module 4 
+
+### Columbia University (TA)
+
 Course | Year         | Professor
 ------------ | -------------| -------------
 [Political Economy](/images/documents/Fall2017.pdf)  | Fall 2017 |  John Marshall
