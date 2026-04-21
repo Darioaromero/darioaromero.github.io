@@ -38,6 +38,10 @@ feature_row:
 
 ---
 
+<p align="center">
+<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="Dario Romero">
+</p>
+
 I am an **Assistant Professor** at the [Peking University HSBC Business School (PHBS)](https://english.phbs.pku.edu.cn/). 
 
 I am an applied economist focusing on **political economy, economic history, and development**. My research explores the complex interactions between political and economic institutions and their impact on development outcomes, particularly in Latin America and the United States. 
