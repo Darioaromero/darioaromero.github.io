@@ -6,6 +6,8 @@ main:
     url: /working/
   - title: "Teaching"
     url: /teaching/
+  - title: "Appointments"
+    url: /appointments/
   - title: "Gallery"
     url: /gallery/
   # - title: "About"

@@ -7,7 +7,12 @@ header:
   image: "/images/Header4-min.jpg"
 ---
 
+### Office Hours & Appointments
+If you are a student and would like to schedule a meeting, please book an appointment through the following link:
+[**Book an Appointment**](/appointments/)
+
 ### Peking University HSBC Business School.
+
 
 Course | Year        
 ------------ | -------------
