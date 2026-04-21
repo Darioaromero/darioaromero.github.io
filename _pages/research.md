@@ -26,12 +26,12 @@ header:
 
 | Year | Publication Details |
 |:--- |:--- |
-| | **"[Something Biased This Way Comes: The Effect of Media on House Elections in the US](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983580)"** (With [Haaris Mateen](https://www.haarismateen.com)) |
+| | "[Something Biased This Way Comes: The Effect of Media on House Elections in the US](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983580)" (With [Haaris Mateen](https://www.haarismateen.com)) |
 | | "[Downwind of the Bus Lane: Transit Pollution and Academic Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5125511)" (With [Diego Martin](https://sites.google.com/view/diegoamartin/home) and Dario Salcedo) |
-| | **"[Banking Local: Media Slant, Erosion of Trust, and Financial Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078365)"** (With [Elizabeth Berger](https://sites.google.com/view/eberger/home) and [Haaris Mateen](https://www.haarismateen.com)) |
-| | **"[The (unintended?) effects of US military training during the Cold War in Latin America](/images/documents/Papers/SOA_Aug2024b.pdf)"** (With [Diego Martin](https://sites.google.com/view/diegoamartin/home)) |
-| | **"[An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)"** |
-| | **"[The Environmental Impact of Civil Conflict: The Deforestation Effect of Paramilitary Expansion in Colombia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516512)"** (With [Leopoldo Fergusson](https://www.leopoldofergusson.com) and [Juan Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0)) |
+| | "[Banking Local: Media Slant, Erosion of Trust, and Financial Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078365)" (With [Elizabeth Berger](https://sites.google.com/view/eberger/home) and [Haaris Mateen](https://www.haarismateen.com)) |
+| | "[The (unintended?) effects of US military training during the Cold War in Latin America](/images/documents/Papers/SOA_Aug2024b.pdf)" (With [Diego Martin](https://sites.google.com/view/diegoamartin/home)) |
+| | "[An Empire Lost: Spanish Industry and The Effect of Colonial Markets and Trade on Innovation](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf)" |
+| | "[The Environmental Impact of Civil Conflict: The Deforestation Effect of Paramilitary Expansion in Colombia](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516512)" (With [Leopoldo Fergusson](https://www.leopoldofergusson.com) and [Juan Vargas](https://sites.google.com/site/juanfvargas/home?authuser=0)) |
 
 ## Work in Progress
 {: .notice--danger}
