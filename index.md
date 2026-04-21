@@ -55,6 +55,3 @@ Prior to joining PHBS, I held research and policy roles at Universidad del Rosar
 ### Featured Research
 {% include feature_row %}
 
-<p align="center">
-<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="Dario Romero">
-</p>
