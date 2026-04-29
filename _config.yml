@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dario Romero"
 description              : ""
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://darioaromero.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Darioaromero/darioaromero.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -109,30 +109,24 @@ analytics:
 author:
   name             : "Dario A. Romero"
   avatar           : "images/Me.jpg"
-  bio              : "Economics PhD, Columbia University"
+  bio              : "Assistant Professor, PHBS – Peking University"
   location         : "Shenzhen, China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-solid fa-envelope"
       url: mailto:daromero@phbs.pku.edu.cn
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "CV"
       icon: "fas fa-solid fa-feather"
       url: "/images/documents/CV/Romero_cv.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/darioaromero"
-    - label: "Facebook"
-      icon: "fab fa-brands fa-goodreads"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Darioaromero"
-    - label: "Google Schoolar"
-      icon: "fab fa-brand fa-goodreads"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.es/citations?hl=en&user=DcFc6aIAAAAJ&scilu=&scisig=AMD79ooAAAAAXYVdzGSWsy2HXGDxRvW_4lT2of5ycwhX&gmla=AJsN-F6YRbeu-Mc76lckWbBKfbylwzT4fxH0tA4BSds55hBYV9gSyhH9HsMJvtE64fkRKtzsE_H10jIKL5-XTa5b_K6uaMXKD_X0niQBEkB09mp3hyi0Xak&sciund=5224170877574724095"
 
 # Site Footer
