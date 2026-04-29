@@ -62,6 +62,7 @@ With [Leopoldo Fergusson](https://www.leopoldofergusson.com) and [Juan Vargas](h
 
 | Year | Details |
 |:--- |:--- |
+| | *Political Polarization and Inventor Productivity: Evidence from Local Television Markets in the US* (With [Haaris Mateen](https://www.haarismateen.com) and [Po-Hsuan Hsu](https://oir.site.nthu.edu.tw/p/412-1487-18850.php)) |
 | | *Mass Deportations, Economic Networks and Firm Productivity in Guatemala* (With [Carlos Schmidt-Padilla](https://cschmidtpadilla.github.io)) |
 
 ## Book Chapters
