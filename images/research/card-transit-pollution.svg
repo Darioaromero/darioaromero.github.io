@@ -1,19 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet">
-  <rect width="1200" height="300" fill="#ffffff"/>
-  <rect x="0" y="0" width="8" height="300" fill="#2ecc71"/>
-  <!-- Decorative: bus route + diffusion rings -->
-  <line x1="750" y1="230" x2="1170" y2="230" stroke="#2ecc71" stroke-width="2.5" opacity="0.15"/>
-  <circle cx="800" cy="230" r="6" fill="#2ecc71" opacity="0.2"/>
-  <circle cx="900" cy="230" r="6" fill="#2ecc71" opacity="0.2"/>
-  <circle cx="1000" cy="230" r="6" fill="#2ecc71" opacity="0.2"/>
-  <circle cx="1100" cy="230" r="6" fill="#2ecc71" opacity="0.2"/>
-  <circle cx="900" cy="230" r="45" fill="none" stroke="#2ecc71" stroke-width="1" opacity="0.1"/>
-  <circle cx="900" cy="230" r="85" fill="none" stroke="#2ecc71" stroke-width="0.8" opacity="0.07"/>
-  <circle cx="1000" cy="230" r="45" fill="none" stroke="#2ecc71" stroke-width="1" opacity="0.08"/>
-  <path d="M 760 170 Q 870 150 970 170 Q 1070 190 1170 170" fill="none" stroke="#2ecc71" stroke-width="1.5" opacity="0.12"/>
-  <path d="M 760 190 Q 870 170 970 190 Q 1070 210 1170 190" fill="none" stroke="#2ecc71" stroke-width="1" opacity="0.08"/>
-  <!-- Text -->
-  <text x="160" y="148" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#2ecc71" dominant-baseline="middle" textLength="980" lengthAdjust="spacingAndGlyphs">ENV. ECONOMICS</text>
-  <line x1="160" y1="200" x2="1140" y2="200" stroke="#dddddd" stroke-width="1"/>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d5f5e3;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <rect x="0" y="0" width="8" height="300" fill="#27ae60"/>
+  <line x1="750" y1="230" x2="1170" y2="230" stroke="#bbbbbb" stroke-width="2.5" opacity="0.45"/>
+  <circle cx="800" cy="230" r="6" fill="#bbbbbb" opacity="0.4"/>
+  <circle cx="900" cy="230" r="6" fill="#bbbbbb" opacity="0.4"/>
+  <circle cx="1000" cy="230" r="6" fill="#bbbbbb" opacity="0.4"/>
+  <circle cx="1100" cy="230" r="6" fill="#bbbbbb" opacity="0.4"/>
+  <circle cx="900" cy="230" r="45" fill="none" stroke="#bbbbbb" stroke-width="1" opacity="0.3"/>
+  <circle cx="900" cy="230" r="85" fill="none" stroke="#bbbbbb" stroke-width="0.8" opacity="0.2"/>
+  <circle cx="1000" cy="230" r="45" fill="none" stroke="#bbbbbb" stroke-width="1" opacity="0.25"/>
+  <path d="M 760 170 Q 870 150 970 170 Q 1070 190 1170 170" fill="none" stroke="#bbbbbb" stroke-width="1.5" opacity="0.35"/>
+  <path d="M 760 190 Q 870 170 970 190 Q 1070 210 1170 190" fill="none" stroke="#bbbbbb" stroke-width="1" opacity="0.25"/>
+  <text x="160" y="148" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#27ae60" dominant-baseline="middle" textLength="980" lengthAdjust="spacingAndGlyphs">ENV. ECONOMICS</text>
+  <line x1="160" y1="200" x2="1140" y2="200" stroke="#cccccc" stroke-width="1"/>
   <text x="160" y="252" font-family="Georgia, serif" font-size="40" fill="#999999" textLength="980" lengthAdjust="spacingAndGlyphs">Colombia · Air Pollution · Education</text>
 </svg>
