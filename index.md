@@ -57,5 +57,38 @@ Prior to joining PHBS, I held research and policy roles at Universidad del Rosar
 {: .notice--info}
 
 ### Featured Research
-{% include feature_row %}
+
+<div class="paper-list">
+
+  <div class="paper-row">
+    <div class="paper-thumb"><img src="/images/research/card-soa.svg" alt="SOA"></div>
+    <div class="paper-title">Soft Training, Hard Repression: U.S. Military Training and Democracy</div>
+    <div class="paper-link"><a href="/papers/soa/" class="btn btn--primary btn--small">Abstract</a></div>
+  </div>
+
+  <div class="paper-row">
+    <div class="paper-thumb"><img src="/images/research/card-sbg.svg" alt="SBG"></div>
+    <div class="paper-title">Something Biased This Way Comes: The Effect of Media on House Elections in the US</div>
+    <div class="paper-link"><a href="/papers/sbg/" class="btn btn--primary btn--small">Abstract</a></div>
+  </div>
+
+  <div class="paper-row">
+    <div class="paper-thumb"><img src="/images/research/card-imperial-threads.svg" alt="Imperial Threads"></div>
+    <div class="paper-title">Imperial Threads: Trade Protectionism and the Direction of Innovation</div>
+    <div class="paper-link"><a href="/papers/imperial-threads/" class="btn btn--primary btn--small">Abstract</a></div>
+  </div>
+
+  <div class="paper-row">
+    <div class="paper-thumb"><img src="/images/research/card-media-banking.svg" alt="Media Banking"></div>
+    <div class="paper-title">Media Slant, Erosion of Trust, and Financial Decisions</div>
+    <div class="paper-link"><a href="/papers/media-banking/" class="btn btn--primary btn--small">Abstract</a></div>
+  </div>
+
+  <div class="paper-row">
+    <div class="paper-thumb"><img src="/images/research/card-transit-pollution.svg" alt="Transit Pollution"></div>
+    <div class="paper-title">Downwind of the Bus Lane: Transit Pollution and Academic Performance</div>
+    <div class="paper-link"><a href="/papers/transit-pollution/" class="btn btn--primary btn--small">Abstract</a></div>
+  </div>
+
+</div>
 

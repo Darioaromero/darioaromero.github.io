@@ -7,6 +7,46 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Homepage paper list: image left, title center, link right
+.paper-list {
+  margin-top: 1em;
+}
+
+.paper-row {
+  display: flex;
+  align-items: center;
+  gap: 1.2em;
+  padding: 0.9em 0;
+  border-bottom: 1px solid #e0e0e0;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  .paper-thumb {
+    flex: 0 0 160px;
+    img {
+      width: 160px;
+      height: auto;
+      display: block;
+      border-radius: 3px;
+    }
+  }
+
+  .paper-title {
+    flex: 1;
+    font-size: 0.88em;
+    font-weight: 500;
+    line-height: 1.45;
+    color: #333;
+  }
+
+  .paper-link {
+    flex: 0 0 90px;
+    text-align: right;
+  }
+}
+
 // Feature row: smaller, more refined paper titles
 .feature__item .archive__item-title {
   font-size: 0.85em;
