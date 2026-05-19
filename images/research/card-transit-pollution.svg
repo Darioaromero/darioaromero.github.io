@@ -1,35 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="bg-tp" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1f0d;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#081508;stop-opacity:1" />
     </linearGradient>
-    <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+    <pattern id="dots-tp" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.06"/>
     </pattern>
   </defs>
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect width="1200" height="300" fill="url(#dots)"/>
-  <!-- Top accent bar -->
-  <rect x="0" y="0" width="1200" height="5" fill="#2ecc71"/>
-  <!-- Bus route line (right side) -->
-  <line x1="720" y1="210" x2="1160" y2="210" stroke="#2ecc71" stroke-width="2" opacity="0.22"/>
-  <circle cx="760" cy="210" r="5" fill="#2ecc71" opacity="0.3"/>
-  <circle cx="860" cy="210" r="5" fill="#2ecc71" opacity="0.3"/>
-  <circle cx="960" cy="210" r="5" fill="#2ecc71" opacity="0.3"/>
-  <circle cx="1060" cy="210" r="5" fill="#2ecc71" opacity="0.3"/>
-  <circle cx="1140" cy="210" r="5" fill="#2ecc71" opacity="0.3"/>
-  <!-- Diffusion rings from stations -->
-  <circle cx="860" cy="210" r="40" fill="none" stroke="#2ecc71" stroke-width="0.8" opacity="0.14"/>
-  <circle cx="860" cy="210" r="75" fill="none" stroke="#2ecc71" stroke-width="0.6" opacity="0.09"/>
-  <circle cx="960" cy="210" r="40" fill="none" stroke="#2ecc71" stroke-width="0.8" opacity="0.12"/>
-  <circle cx="960" cy="210" r="75" fill="none" stroke="#2ecc71" stroke-width="0.6" opacity="0.08"/>
-  <!-- Wind drift lines -->
-  <path d="M 750 150 Q 850 130 950 150 Q 1050 170 1150 150" fill="none" stroke="#2ecc71" stroke-width="1.2" opacity="0.15"/>
-  <path d="M 750 170 Q 850 150 950 170 Q 1050 190 1150 170" fill="none" stroke="#2ecc71" stroke-width="1" opacity="0.1"/>
-  <path d="M 750 190 Q 850 170 950 190 Q 1050 210 1150 190" fill="none" stroke="#2ecc71" stroke-width="0.8" opacity="0.08"/>
-  <!-- Field label -->
-  <text x="60" y="220" font-family="Georgia, serif" font-size="12" fill="#2ecc71" letter-spacing="4" opacity="0.9">ENVIRONMENTAL ECONOMICS</text>
-  <line x1="60" y1="234" x2="400" y2="234" stroke="#2ecc71" stroke-width="0.5" opacity="0.4"/>
-  <text x="60" y="256" font-family="Georgia, serif" font-size="11" fill="#8899aa" letter-spacing="2">Colombia · Air Pollution · Education</text>
+  <rect width="1200" height="300" fill="url(#bg-tp)"/>
+  <rect width="1200" height="300" fill="url(#dots-tp)"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#2ecc71"/>
+  <line x1="720" y1="210" x2="1160" y2="210" stroke="#2ecc71" stroke-width="2.5" opacity="0.22"/>
+  <circle cx="760" cy="210" r="7" fill="#2ecc71" opacity="0.3"/>
+  <circle cx="860" cy="210" r="7" fill="#2ecc71" opacity="0.3"/>
+  <circle cx="960" cy="210" r="7" fill="#2ecc71" opacity="0.3"/>
+  <circle cx="1060" cy="210" r="7" fill="#2ecc71" opacity="0.3"/>
+  <circle cx="1140" cy="210" r="7" fill="#2ecc71" opacity="0.3"/>
+  <circle cx="860" cy="210" r="45" fill="none" stroke="#2ecc71" stroke-width="1" opacity="0.14"/>
+  <circle cx="860" cy="210" r="80" fill="none" stroke="#2ecc71" stroke-width="0.8" opacity="0.09"/>
+  <path d="M 750 150 Q 850 130 950 150 Q 1050 170 1150 150" fill="none" stroke="#2ecc71" stroke-width="1.5" opacity="0.15"/>
+  <path d="M 750 170 Q 850 150 950 170 Q 1050 190 1150 170" fill="none" stroke="#2ecc71" stroke-width="1.2" opacity="0.1"/>
+  <text x="60" y="210" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#2ecc71" letter-spacing="6" opacity="0.85">ENVIRONMENTAL ECONOMICS</text>
+  <line x1="60" y1="228" x2="1050" y2="228" stroke="#2ecc71" stroke-width="1" opacity="0.35"/>
+  <text x="60" y="268" font-family="Georgia, serif" font-size="38" fill="#8899aa" letter-spacing="3">Colombia · Air Pollution · Education</text>
 </svg>
