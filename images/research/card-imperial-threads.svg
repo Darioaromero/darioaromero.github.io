@@ -7,9 +7,20 @@
   </defs>
   <rect width="1200" height="300" fill="url(#g)"/>
   <rect x="0" y="0" width="8" height="300" fill="#d4a017"/>
-  <path d="M 830 0 Q 930 60 830 120 Q 730 180 830 240 Q 930 300 830 360" fill="none" stroke="#bbbbbb" stroke-width="2" opacity="0.45"/>
-  <path d="M 910 0 Q 1010 60 910 120 Q 810 180 910 240 Q 1010 300 910 360" fill="none" stroke="#bbbbbb" stroke-width="1.5" opacity="0.35"/>
-  <path d="M 990 0 Q 1090 60 990 120 Q 890 180 990 240 Q 1090 300 990 360" fill="none" stroke="#bbbbbb" stroke-width="1.2" opacity="0.25"/>
-  <path d="M 1070 0 Q 1170 60 1070 120 Q 970 180 1070 240 Q 1170 300 1070 360" fill="none" stroke="#bbbbbb" stroke-width="1" opacity="0.18"/>
-  <text x="160" y="165" font-family="Georgia, serif" font-size="52" fill="#666666" dominant-baseline="middle">Spain · Innovation · Trade Policy · 19th Century</text>
+  <!-- Diagonal weave grid — textile / trade threads theme -->
+  <line x1="845" y1="30"  x2="1145" y2="270" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="885" y1="30"  x2="1145" y2="230" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="925" y1="30"  x2="1145" y2="190" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="965" y1="30"  x2="1145" y2="150" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="845" y1="70"  x2="1105" y2="270" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="845" y1="110" x2="1065" y2="270" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="845" y1="150" x2="1025" y2="270" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="845" y1="270" x2="1145" y2="30"  stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="885" y1="270" x2="1145" y2="70"  stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="925" y1="270" x2="1145" y2="110" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="965" y1="270" x2="1145" y2="150" stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="845" y1="230" x2="1105" y2="30"  stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="845" y1="190" x2="1065" y2="30"  stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <line x1="845" y1="150" x2="1025" y2="30"  stroke="#cccccc" stroke-width="0.8" opacity="0.22"/>
+  <text x="160" y="150" font-family="Georgia, serif" font-size="52" fill="#555555" dominant-baseline="middle">Spain · Innovation · Trade Policy · 19th Century</text>
 </svg>
