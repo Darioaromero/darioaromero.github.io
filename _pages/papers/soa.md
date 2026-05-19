@@ -4,7 +4,7 @@ title: "Soft Training, Hard Repression: U.S. Military Training and Democracy"
 permalink: "/papers/soa/"
 author_profile: true
 header:
-  image: "/images/research/card-soa.svg"
+  image: "/images/Header-min.jpg"
 ---
 
 *With [Diego Martin](https://sites.google.com/view/diegoamartin/home)*

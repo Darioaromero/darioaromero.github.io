@@ -4,7 +4,7 @@ title: "Something Biased This Way Comes: The Effect of Media on House Elections 
 permalink: "/papers/sbg/"
 author_profile: true
 header:
-  image: "/images/research/card-sbg.svg"
+  image: "/images/Header-min.jpg"
 ---
 
 *With [Haaris Mateen](https://www.haarismateen.com)*

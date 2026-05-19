@@ -16,17 +16,14 @@
   margin-bottom: 0.4em;
 }
 
-// Feature row: wide panoramic cards (4:1 ratio)
+// Feature row: wide panoramic cards (natural SVG ratio)
 .feature__item .archive__item-teaser {
-  padding-bottom: 25%;
-  position: relative;
-  overflow: hidden;
+  padding-bottom: 0 !important;
+  height: auto !important;
   img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    position: static !important;
+    width: 100% !important;
+    height: auto !important;
+    object-fit: unset !important;
   }
 }
