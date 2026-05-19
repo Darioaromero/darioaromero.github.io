@@ -11,7 +11,5 @@
   <path d="M 910 0 Q 1010 60 910 120 Q 810 180 910 240 Q 1010 300 910 360" fill="none" stroke="#bbbbbb" stroke-width="1.5" opacity="0.35"/>
   <path d="M 990 0 Q 1090 60 990 120 Q 890 180 990 240 Q 1090 300 990 360" fill="none" stroke="#bbbbbb" stroke-width="1.2" opacity="0.25"/>
   <path d="M 1070 0 Q 1170 60 1070 120 Q 970 180 1070 240 Q 1170 300 1070 360" fill="none" stroke="#bbbbbb" stroke-width="1" opacity="0.18"/>
-  <text x="160" y="148" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#d4a017" dominant-baseline="middle" textLength="980" lengthAdjust="spacingAndGlyphs">ECONOMIC HISTORY</text>
-  <line x1="160" y1="200" x2="1140" y2="200" stroke="#cccccc" stroke-width="1"/>
-  <text x="160" y="252" font-family="Georgia, serif" font-size="40" fill="#999999" textLength="980" lengthAdjust="spacingAndGlyphs">Spain · Innovation · Trade Policy · 19th Century</text>
+  <text x="160" y="165" font-family="Georgia, serif" font-size="52" fill="#666666" dominant-baseline="middle">Spain · Innovation · Trade Policy · 19th Century</text>
 </svg>

@@ -17,7 +17,5 @@
   <polyline points="799,170 851,120 903,138 955,95 1007,112 1059,78 1111,98" fill="none" stroke="#999999" stroke-width="2" opacity="0.45"/>
   <circle cx="955" cy="95" r="4" fill="#999999" opacity="0.5"/>
   <circle cx="1059" cy="78" r="4" fill="#999999" opacity="0.5"/>
-  <text x="160" y="148" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#5dade2" dominant-baseline="middle" textLength="980" lengthAdjust="spacingAndGlyphs">MEDIA · FINANCE</text>
-  <line x1="160" y1="200" x2="1140" y2="200" stroke="#cccccc" stroke-width="1"/>
-  <text x="160" y="252" font-family="Georgia, serif" font-size="40" fill="#999999" textLength="980" lengthAdjust="spacingAndGlyphs">United States · Trust · Household Finance</text>
+  <text x="160" y="165" font-family="Georgia, serif" font-size="52" fill="#666666" dominant-baseline="middle">United States · Trust · Household Finance</text>
 </svg>

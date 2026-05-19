@@ -16,7 +16,5 @@
   <line x1="1040" y1="130" x2="860" y2="95" stroke="#bbbbbb" stroke-width="0.8" opacity="0.35"/>
   <circle cx="900" cy="225" r="5" fill="#bbbbbb" opacity="0.35"/>
   <circle cx="860" cy="95" r="5" fill="#bbbbbb" opacity="0.35"/>
-  <text x="160" y="148" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#2471a3" dominant-baseline="middle" textLength="980" lengthAdjust="spacingAndGlyphs">POLITICAL ECONOMY · MEDIA</text>
-  <line x1="160" y1="200" x2="1140" y2="200" stroke="#cccccc" stroke-width="1"/>
-  <text x="160" y="252" font-family="Georgia, serif" font-size="40" fill="#999999" textLength="980" lengthAdjust="spacingAndGlyphs">United States · Elections · Media Bias</text>
+  <text x="160" y="165" font-family="Georgia, serif" font-size="52" fill="#666666" dominant-baseline="middle">United States · Elections · Media Bias</text>
 </svg>
