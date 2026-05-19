@@ -3,6 +3,8 @@ layout: single
 title: "Media Slant, Erosion of Trust, and Financial Decisions"
 permalink: "/papers/media-banking/"
 author_profile: true
+header:
+  image: "/images/research/card-media-banking.svg"
 ---
 
 *With [Elizabeth Berger](https://sites.google.com/view/eberger/home) and [Haaris Mateen](https://www.haarismateen.com)*

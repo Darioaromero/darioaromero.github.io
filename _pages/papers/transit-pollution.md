@@ -3,6 +3,8 @@ layout: single
 title: "Downwind of the Bus Lane: Transit Pollution and Academic Performance"
 permalink: "/papers/transit-pollution/"
 author_profile: true
+header:
+  image: "/images/research/card-transit-pollution.svg"
 ---
 
 *With [Diego Martin](https://sites.google.com/view/diegoamartin/home) and Dario Salcedo*

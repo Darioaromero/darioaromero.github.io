@@ -5,36 +5,36 @@ header:
   image: "/images/Header-min.jpg"
 entries_layout: grid
 feature_row:
-  - image_path: /images/research/Map_Total.pdf
-    alt: "SOA"
-    excerpt: "Soft Training, Hard Repression: U.S. Military Training and Democracy"
+  - image_path: /images/research/card-soa.svg
+    alt: "Soft Training, Hard Repression"
+    title: "Soft Training, Hard Repression: U.S. Military Training and Democracy"
     url: "/papers/soa/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"   
-  - image_path: /images/research/DMA_v7.pdf
-    alt: "SBG"
-    excerpt: "Something Biased This Way Comes: The Effect of Media on House Elections in the US"
+    btn_label: "Abstract"
+  - image_path: /images/research/card-sbg.svg
+    alt: "Something Biased This Way Comes"
+    title: "Something Biased This Way Comes: The Effect of Media on House Elections in the US"
     url: "/papers/sbg/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"       
-  - image_path: /images/research/Cuba_Cotton_vs_Other.pdf
-    alt: "Spain"
-    excerpt: "Imperial Threads: Trade Protectionism and the Direction of Innovation"
+    btn_label: "Abstract"
+  - image_path: /images/research/card-imperial-threads.svg
+    alt: "Imperial Threads"
+    title: "Imperial Threads: Trade Protectionism and the Direction of Innovation"
     url: "/papers/imperial-threads/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"   
-  - image_path: /images/research/Map_National.pdf
-    alt: "Banking"
-    excerpt: "Media Slant, Erosion of Trust, and Financial Decisions"
+    btn_label: "Abstract"
+  - image_path: /images/research/card-media-banking.svg
+    alt: "Media Slant, Erosion of Trust"
+    title: "Media Slant, Erosion of Trust, and Financial Decisions"
     url: "/papers/media-banking/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"       
-  - image_path: /images/research/map_transmilenio_2.png
-    alt: "Banking"
-    excerpt: "Downwind of the Bus Lane: Transit Pollution and Academic Performance"
+    btn_label: "Abstract"
+  - image_path: /images/research/card-transit-pollution.svg
+    alt: "Downwind of the Bus Lane"
+    title: "Downwind of the Bus Lane: Transit Pollution and Academic Performance"
     url: "/papers/transit-pollution/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"         
+    btn_label: "Abstract"
 
 ---
 

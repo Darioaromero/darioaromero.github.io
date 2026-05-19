@@ -3,6 +3,8 @@ layout: single
 title: "Something Biased This Way Comes: The Effect of Media on House Elections in the US"
 permalink: "/papers/sbg/"
 author_profile: true
+header:
+  image: "/images/research/card-sbg.svg"
 ---
 
 *With [Haaris Mateen](https://www.haarismateen.com)*

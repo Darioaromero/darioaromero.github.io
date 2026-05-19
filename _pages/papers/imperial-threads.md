@@ -3,6 +3,8 @@ layout: single
 title: "Imperial Threads: Trade Protectionism and the Direction of Innovation"
 permalink: "/papers/imperial-threads/"
 author_profile: true
+header:
+  image: "/images/research/card-imperial-threads.svg"
 ---
 
 ---
