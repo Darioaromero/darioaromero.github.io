@@ -7,8 +7,6 @@ author_profile: true
 
 *With [Diego Martin](https://sites.google.com/view/diegoamartin/home)*
 
-[Download Paper](/images/documents/Papers/SOA_Aug2024b.pdf){: .btn .btn--primary}
-
 ---
 
 ## Abstract

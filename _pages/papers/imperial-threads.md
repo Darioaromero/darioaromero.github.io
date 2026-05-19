@@ -5,8 +5,6 @@ permalink: "/papers/imperial-threads/"
 author_profile: true
 ---
 
-[Download Paper](/images/documents/Papers/Romero_An_empire_lost_2021d.pdf){: .btn .btn--primary}
-
 ---
 
 ## Abstract
