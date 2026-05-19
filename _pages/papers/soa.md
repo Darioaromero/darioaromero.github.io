@@ -9,6 +9,8 @@ header:
 
 *With [Diego Martin](https://sites.google.com/view/diegoamartin/home)*
 
+![](/images/research/Map_Total.png)
+
 ---
 
 ## Abstract

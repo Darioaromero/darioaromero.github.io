@@ -11,6 +11,8 @@ header:
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983580){: .btn .btn--primary}
 
+![](/images/research/DMA_v7.png)
+
 ---
 
 ## Abstract

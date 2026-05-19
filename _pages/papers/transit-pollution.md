@@ -11,6 +11,8 @@ header:
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5125511){: .btn .btn--primary}
 
+![](/images/research/map_transmilenio_2.png)
+
 ---
 
 ## Abstract

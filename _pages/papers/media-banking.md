@@ -11,6 +11,8 @@ header:
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078365){: .btn .btn--primary}
 
+![](/images/research/Map_National.png)
+
 ---
 
 ## Abstract

@@ -7,6 +7,8 @@ header:
   image: "/images/research/card-imperial-threads.svg"
 ---
 
+![](/images/research/Cuba_Cotton_vs_Other.png)
+
 ---
 
 ## Abstract
