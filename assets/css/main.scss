@@ -7,43 +7,44 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-// Homepage paper list: image left, title center, link right
-.paper-list {
+// Homepage paper grid: image on top, title as link below
+.paper-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.4em;
   margin-top: 1em;
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
 }
 
-.paper-row {
-  display: flex;
-  align-items: center;
-  gap: 1.2em;
-  padding: 0.9em 0;
-  border-bottom: 1px solid #e0e0e0;
+.paper-card {
+  display: block;
+  text-decoration: none;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  overflow: hidden;
+  transition: box-shadow 0.2s ease;
 
-  &:last-child {
-    border-bottom: none;
+  &:hover {
+    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
+    text-decoration: none;
   }
 
-  .paper-thumb {
-    flex: 0 0 160px;
-    img {
-      width: 160px;
-      height: auto;
-      display: block;
-      border-radius: 3px;
-    }
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
   }
 
-  .paper-title {
-    flex: 1;
-    font-size: 0.88em;
+  span {
+    display: block;
+    padding: 0.65em 0.8em;
+    font-size: 0.82em;
     font-weight: 500;
-    line-height: 1.45;
+    line-height: 1.4;
     color: #333;
-  }
-
-  .paper-link {
-    flex: 0 0 90px;
-    text-align: right;
   }
 }
 
