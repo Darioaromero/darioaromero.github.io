@@ -7,7 +7,7 @@ entries_layout: grid
 feature_row:
   - image_path: /images/research/Map_Total.pdf
     alt: "SOA"
-    excerpt: "The (unintended?) effects of US military training during the Cold War in Latin-America"
+    excerpt: "Soft Training, Hard Repression: U.S. Military Training and Democracy"
     url: "images/documents/Papers/SOA_Aug2024b.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
@@ -19,13 +19,13 @@ feature_row:
     btn_label: "Learn more"       
   - image_path: /images/research/Cuba_Cotton_vs_Other.pdf
     alt: "Spain"
-    excerpt: "An Empire Lost: Spanish Industry and The Effect of Colonial Markets on Peripheral Innovation"
+    excerpt: "Imperial Threads: Trade Protectionism and the Direction of Innovation"
     url: "/images/documents/Papers/Romero_An_empire_lost_2021d.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
   - image_path: /images/research/Map_National.pdf
     alt: "Banking"
-    excerpt: "Banking in the Shadow of Media Slant"
+    excerpt: "Media Slant, Erosion of Trust, and Financial Decisions"
     url: "/images/documents/Papers/Bank_Lending_and_Media_Slant_BMR_20241231.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"       
