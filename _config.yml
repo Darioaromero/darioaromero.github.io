@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" #  "" "air", "aqua", "contrast", "dark", , 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dario Romero"
+title                    : "Dario A. Romero"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Dario Romero"
+name                     : "Dario A. Romero"
 description              : "Applied economist at PHBS – Peking University. Research in political economy, economic history, and development in Latin America and the US."
 url                      : "https://darioaromero.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

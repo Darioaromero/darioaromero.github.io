@@ -39,7 +39,7 @@ feature_row:
 ---
 
 <p align="center">
-<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="Dario Romero">
+<img src="{{ site.url}}{{site.baseurl}}/images/TA.jpg" width="421.5" height="612" alt="Dario A. Romero">
 </p>
 
 I am an **Assistant Professor** at the [Peking University HSBC Business School (PHBS)](https://english.phbs.pku.edu.cn/). 
