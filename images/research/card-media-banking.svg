@@ -1,9 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet">
   <rect width="1200" height="300" fill="#ffffff"/>
-  <rect width="1200" height="300" fill="#f7fdfb" opacity="0.5"/>
-  <rect x="0" y="0" width="120" height="300" fill="#1abc9c" opacity="0.10"/>
   <rect x="0" y="0" width="8" height="300" fill="#1abc9c"/>
-  <text x="160" y="150" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#1abc9c" opacity="0.9" dominant-baseline="middle">MEDIA · FINANCE</text>
-  <line x1="160" y1="195" x2="800" y2="195" stroke="#1abc9c" stroke-width="1.5" opacity="0.25"/>
-  <text x="160" y="245" font-family="Georgia, serif" font-size="44" fill="#888888" letter-spacing="2">United States · Trust · Household Finance</text>
+  <text x="160" y="150" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#222222" dominant-baseline="middle" textLength="980" lengthAdjust="spacingAndGlyphs">MEDIA · FINANCE</text>
+  <line x1="160" y1="200" x2="1140" y2="200" stroke="#cccccc" stroke-width="1"/>
+  <text x="160" y="255" font-family="Georgia, serif" font-size="40" fill="#888888" textLength="980" lengthAdjust="spacingAndGlyphs">United States · Trust · Household Finance</text>
 </svg>
