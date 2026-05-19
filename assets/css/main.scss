@@ -6,3 +6,12 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Feature row: smaller, more refined paper titles
+.feature__item .archive__item-title {
+  font-size: 0.85em;
+  font-weight: 500;
+  line-height: 1.4;
+  margin-top: 0.5em;
+  margin-bottom: 0.4em;
+}
