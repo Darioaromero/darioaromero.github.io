@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  19 MAY 2026 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  4 JUN 2026 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -945,7 +945,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 93--94
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
@@ -955,9 +955,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 101--102
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 124--125
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
@@ -989,10 +999,10 @@ s/type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publ
 ic/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro
 10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/marvosym/marvosym
 .pfb>
-Output written on Romero_cv.pdf (4 pages, 219353 bytes).
+Output written on Romero_cv.pdf (4 pages, 219544 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 129 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
  18 named destinations out of 1000 (max. 500000)
  41077 words of extra memory for PDF output out of 42996 (max. 10000000)
 
