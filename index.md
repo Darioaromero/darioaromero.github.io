@@ -35,6 +35,12 @@ feature_row:
     url: "/papers/transit-pollution/"
     btn_class: "btn--primary"
     btn_label: "Abstract"
+  - image_path: /images/research/card-clouded-judgment.svg
+    alt: "Clouded Judgment"
+    title: "Clouded Judgment? Air Pollution, Cognition, and Invalid Voting"
+    url: "/papers/clouded-judgment/"
+    btn_class: "btn--primary"
+    btn_label: "Abstract"
 
 ---
 
@@ -78,6 +84,10 @@ Prior to joining PHBS, I held research and policy roles at Universidad del Rosar
   <a class="paper-card" href="/papers/transit-pollution/">
     <img src="/images/research/card-transit-pollution.svg" alt="Environmental Economics">
     <span>Downwind of the Bus Lane: Transit Pollution and Academic Performance</span>
+  </a>
+  <a class="paper-card" href="/papers/clouded-judgment/">
+    <img src="/images/research/card-clouded-judgment.svg" alt="Air Pollution & Voting">
+    <span>Clouded Judgment? Air Pollution, Cognition, and Invalid Voting</span>
   </a>
 </div>
 

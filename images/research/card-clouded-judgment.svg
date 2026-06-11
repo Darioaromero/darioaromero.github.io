@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#d6eaf8;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <rect x="0" y="0" width="8" height="300" fill="#2e86c1"/>
+  <!-- Ballot box and wind/air elements -->
+  <rect x="870" y="110" width="80" height="90" rx="6" fill="none" stroke="#cccccc" stroke-width="2" opacity="0.35"/>
+  <rect x="895" y="100" width="30" height="18" rx="3" fill="none" stroke="#cccccc" stroke-width="1.5" opacity="0.35"/>
+  <line x1="910" y1="118" x2="910" y2="200" stroke="#cccccc" stroke-width="1" opacity="0.25"/>
+  <!-- Wind curves -->
+  <path d="M 980 130 Q 1030 120 1080 135" stroke="#cccccc" stroke-width="2" fill="none" opacity="0.30"/>
+  <path d="M 990 155 Q 1045 145 1100 158" stroke="#cccccc" stroke-width="1.5" fill="none" opacity="0.25"/>
+  <path d="M 975 178 Q 1025 168 1075 180" stroke="#cccccc" stroke-width="1.2" fill="none" opacity="0.20"/>
+  <text x="160" y="150" font-family="Georgia, serif" font-size="52" fill="#555555" dominant-baseline="middle">Colombia · Air Pollution · Voting</text>
+</svg>
