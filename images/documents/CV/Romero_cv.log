@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  4 JUN 2026 15:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  19 JUN 2026 18:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -967,7 +967,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 128--129
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
@@ -978,40 +978,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 128--129
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-Package rerunfilecheck Warning: File `Romero_cv.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Romero_cv.out':
-(rerunfilecheck)             Before: 8E7DDECE0C0C6FDC9CB12D0090212513;1681
-(rerunfilecheck)             After:  B321F69945FAC65BE5775066B4CEFD0E;1558.
+Package rerunfilecheck Info: File `Romero_cv.out' has not changed.
+(rerunfilecheck)             Checksum: B321F69945FAC65BE5775066B4CEFD0E;1558.
  ) 
 Here is how much of TeX's memory you used:
- 22910 strings out of 473190
- 429356 string characters out of 5715801
+ 22908 strings out of 473190
+ 429332 string characters out of 5715801
  861662 words of memory out of 5000000
- 45635 multiletter control sequences out of 15000+600000
+ 45634 multiletter control sequences out of 15000+600000
  633554 words of font info for 130 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,14n,115p,1006b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{section*.13} has been referenced but does not exist
-, replaced by a fixed one
-
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/loca
-l/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/
-2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-
-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/
-type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public
-/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro10
-.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/marvosym/marvosym.p
-fb>
-Output written on Romero_cv.pdf (3 pages, 214807 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/lo
+cal/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texliv
+e/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texm
+f-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2025/texmf-dist/font
+s/type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/publ
+ic/lm/lmri10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmro
+10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/marvosym/marvosym
+.pfb>
+Output written on Romero_cv.pdf (3 pages, 215295 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 500000)
- 41077 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 119 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 41069 words of extra memory for PDF output out of 42996 (max. 10000000)
 
