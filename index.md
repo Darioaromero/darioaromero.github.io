@@ -53,7 +53,7 @@ I am an **Assistant Professor** at the [Peking University HSBC Business School (
 I am an applied economist focusing on **political economy, economic history, and development**. My research explores the complex interactions between political and economic institutions and their impact on development outcomes, particularly in Latin America and the United States. 
 {: style="text-align: justify;"}
 
-My work investigates the effects of external shocks—such as violence, media influence, and foreign military policies—on social behavior and institutional outcomes. I utilize quasi-experimental designs and rigorous econometric techniques to provide causal evidence on how historical events and political dynamics shape societal development.
+My research examines the effects of external shocks such as violence, media influence, and foreign policies on social behavior and institutional outcomes. I use quasi-experimental designs to provide evidence on how historical events and political dynamics shape societal development.
 {: style="text-align: justify;"}
 
 Prior to joining PHBS, I held research and policy roles at Universidad del Rosario, J-PAL LAC, the IADB, and NYUAD. I hold a **Ph.D. in Economics from Columbia University**, and an M.A. and B.A. from Universidad de los Andes.
