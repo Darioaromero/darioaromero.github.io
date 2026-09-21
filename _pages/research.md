@@ -55,6 +55,9 @@ header:
 "<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2516512">The Environmental Impact of Civil Conflict: The Deforestation Effect of Paramilitary Expansion in Colombia</a>" (With <a href="https://www.leopoldofergusson.com">Leopoldo Fergusson</a> and <a href="https://sites.google.com/site/juanfvargas/home?authuser=0">Juan Vargas</a>)
 <details><summary>Abstract</summary><p>[Abstract coming soon]</p></details>
 </td></tr>
+<tr><td></td><td>
+"Political Polarization and Inventor Productivity: Evidence from Local Television Markets in the US" (With <a href="https://www.haarismateen.com">Haaris Mateen</a> and <a href="https://oir.site.nthu.edu.tw/p/412-1487-18850.php">Po-Hsuan Hsu</a>)
+</td></tr>
 </tbody>
 </table>
 
@@ -63,7 +66,6 @@ header:
 
 | Year | Details |
 |:--- |:--- |
-| | *Political Polarization and Inventor Productivity: Evidence from Local Television Markets in the US* (With [Haaris Mateen](https://www.haarismateen.com) and [Po-Hsuan Hsu](https://oir.site.nthu.edu.tw/p/412-1487-18850.php)) |
 | | *Mass Deportations, Economic Networks and Firm Productivity in Guatemala* (With [Carlos Schmidt-Padilla](https://cschmidtpadilla.github.io)) |
 | | *History of State Presence in Brazil* (With [Felipe Netto](https://felipesnetto.github.io)) |
 
